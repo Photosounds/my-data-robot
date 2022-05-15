@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T09:08:51.970Z,19.2046661376953,-155.440170288086,34.189998626709,2.00999999,md,37,129,,0.0900000036,hv,hv73011957,2022-05-14T09:12:00.340Z,"4 km E of Pāhala, Hawaii",earthquake,0.61,0.879999995,0.910000026,7,automatic,hv,hv
 2022-05-14T09:05:56.240Z,37.2528343,-121.6313324,4.81,1.4,md,16,68,0.0891,0.05,nc,nc73733561,2022-05-14T11:11:10.600Z,"14km N of Morgan Hill, CA",earthquake,0.22,0.9,0.16,12,automatic,nc,nc
 2022-05-14T09:00:11.060Z,44.4498333,-115.5621667,-0.94,1.94,ml,14,55,0.71,0.25,mb,mb80545794,2022-05-14T13:05:32.230Z,"38 km E of Cascade, Idaho",earthquake,0.66,2.66,0.199,12,reviewed,mb,mb
-2022-05-14T08:42:28.662Z,41.2769,-71.3738,5.26,2.2,ml,,227,0.522,0.31,us,us6000hl2t,2022-05-15T05:23:21.406Z,"18 km SSE of Narragansett Pier, Rhode Island",earthquake,2.2,5.6,0.064,32,reviewed,us,us
