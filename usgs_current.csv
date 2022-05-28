@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T18:01:37.820Z,60.3711,-151.4651,45.7,1.6,ml,,,,0.43,ak,ak0226t29gm0,2022-05-28T18:04:15.192Z,"8 km W of Cohoe, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2022-05-28T17:58:13.388Z,60.3138,-151.3542,28.5,3.3,ml,,,,0.66,ak,ak0226t206z4,2022-05-28T18:01:53.350Z,"5 km WSW of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-28T17:49:33.250Z,19.1573333740234,-155.371002197266,28.8500003814697,1.76,ml,48,178,,0.140000001,hv,hv73026007,2022-05-28T17:55:04.700Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.5,0.819999993,4.57,9,automatic,hv,hv
+2022-05-28T17:49:02.393Z,62.3347,-150.3928,20.3,1.7,ml,,,,0.8,ak,ak0226t1y8ms,2022-05-28T17:51:32.719Z,"8 km WNW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-28T17:45:27.523Z,60.5101,-151.3933,50.2,0.8,ml,,,,0.39,ak,ak0226t1xfps,2022-05-28T17:47:51.823Z,"8 km SW of Kenai, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-05-28T17:43:37.210Z,19.2043342590332,-155.497161865234,32.4700012207031,2.1,ml,38,69,,0.180000007,hv,hv73026002,2022-05-28T17:49:17.020Z,"1 km W of Pāhala, Hawaii",earthquake,0.72,1.04999995,3.6,6,automatic,hv,hv
 2022-05-28T17:37:01.311Z,63.1417,-150.6132,122.1,1.5,ml,,,,0.36,ak,ak0226t1vo0c,2022-05-28T17:39:42.146Z,"71 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -175,7 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T18:29:33.500Z,37.6368333,-118.877,5.34,0.43,md,11,108,0.01746,0.05,nc,nc73738746,2022-05-28T03:29:23.168Z,"9km E of Mammoth Lakes, CA",earthquake,0.4,0.51,0.124,11,reviewed,nc,nc
 2022-05-27T18:28:05.510Z,38.8323326,-122.8154984,1.53,0.77,md,10,71,0.01681,0.02,nc,nc73738761,2022-05-27T19:48:13.593Z,"8km NW of The Geysers, CA",earthquake,0.34,0.69,0.4,3,automatic,nc,nc
 2022-05-27T18:22:42.428Z,8.4395,-102.9746,10,4.9,mb,,58,10.032,0.68,us,us7000hd59,2022-05-27T19:13:24.960Z,"northern East Pacific Rise",earthquake,10.6,1.9,0.027,429,reviewed,us,us
-2022-05-27T18:01:39.350Z,45.8425,-111.4046667,8.27,0.44,ml,3,303,0.292,0.01,mb,mb80547249,2022-05-28T13:39:12.540Z,"4 km SSE of Logan, Montana",earthquake,2.5,4.49,,0,reviewed,mb,mb
-2022-05-27T18:01:03.250Z,33.6595,-116.7621667,12.84,0.7,ml,30,90,0.06525,0.08,ci,ci40028543,2022-05-27T18:23:14.960Z,"10km SSW of Idyllwild, CA",earthquake,0.15,0.27,0.245,8,reviewed,ci,ci
-2022-05-27T17:59:10.684Z,61.7854,-149.7783,34.6,1.1,ml,,,,0.87,ak,ak0226reh1ww,2022-05-27T18:01:55.243Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-05-27T17:57:18.680Z,37.0045,-119.817,-0.39,2.08,md,10,147,0.08822,0.15,nc,nc73738731,2022-05-27T18:57:36.594Z,"6km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,13.26,31.61,0.273,24,reviewed,nc,nc
