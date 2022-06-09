@@ -215,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T10:56:48.620Z,35.9213333,-117.7091667,3.92,0.57,ml,14,74,0.08839,0.1,ci,ci37502309,2022-06-08T18:40:43.064Z,"18km E of Little Lake, CA",earthquake,0.2,0.46,0.142,6,reviewed,ci,ci
 2022-06-08T10:56:27.880Z,35.9218333,-117.7071667,4.1,0.86,ml,23,66,0.08671,0.12,ci,ci40036239,2022-06-08T18:38:48.050Z,"18km E of Little Lake, CA",earthquake,0.16,0.35,0.117,8,reviewed,ci,ci
 2022-06-08T10:50:12.660Z,35.9223333,-117.707,4.79,1,mh,14,67,0.0865,0.06,ci,ci40036231,2022-06-08T18:44:29.089Z,"18km E of Little Lake, CA",earthquake,0.12,0.23,,0,reviewed,ci,ci
-2022-06-08T10:49:57.840Z,37.2598,-116.6557,7.3,-0.4,ml,8,250.56,0.127,0.1579,nn,nn00840605,2022-06-09T04:08:00.046Z,"40 km NNE of Beatty, Nevada",earthquake,,4.4,1.43,5,reviewed,nn,nn
-2022-06-08T10:49:48.550Z,35.9226667,-117.7068333,4.51,0.16,ml,12,67,0.08631,0.07,ci,ci37502301,2022-06-08T18:20:08.452Z,"18km E of Little Lake, CA",earthquake,0.14,0.31,0.149,5,reviewed,ci,ci
-2022-06-08T10:49:25.850Z,35.9151667,-117.7081667,3.01,-0.14,ml,7,88,0.08881,0.05,ci,ci37502317,2022-06-08T18:23:56.966Z,"18km E of Little Lake, CA",earthquake,0.2,4.66,0.11,2,reviewed,ci,ci
