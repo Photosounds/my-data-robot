@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-19T23:32:23.740Z,34.1608333,-117.3568333,13.41,1.18,ml,28,106,0.04573,0.2,ci,ci40287464,2022-06-19T23:35:56.925Z,"1km WNW of Muscoy, CA",earthquake,0.45,0.75,0.247,29,automatic,ci,ci
 2022-06-19T23:07:00.786Z,65.0033,-147.4561,0,1.1,ml,,,,0.55,ak,ak0227tj3gxq,2022-06-19T23:08:05.615Z,"9 km ENE of Fox, Alaska",earthquake,,28.8,,,automatic,ak,ak
 2022-06-19T22:55:02.481Z,63.3307,-153.253,15.4,1.3,ml,,,,0.37,ak,ak0227tisbu0,2022-06-19T22:56:46.242Z,"66 km ENE of Nikolai, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-19T22:54:02.890Z,38.8231667,-122.7636667,2.14,0.39,md,13,153,0.008775,0.01,nc,nc73747761,2022-06-19T23:24:12.809Z,"4km W of Cobb, CA",earthquake,0.49,0.46,0.172,2,reviewed,nc,nc
