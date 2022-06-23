@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-23T09:49:08.696Z,61.7303,-150.0748,31.3,0.8,ml,,,,0.59,ak,ak0227zx5t4l,2022-06-23T09:50:32.564Z,"2 km SW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-23T09:47:17.900Z,38.8366661,-122.7988358,2.09,1.15,md,19,66,0.006856,0.03,nc,nc73749921,2022-06-23T09:56:10.714Z,"7km WNW of Cobb, CA",earthquake,0.24,0.48,0.12,4,automatic,nc,nc
 2022-06-23T09:33:25.730Z,19.3649997711182,-155.032669067383,3.39000010490417,1.73,ml,20,208,,0.170000002,hv,hv73052882,2022-06-23T09:38:56.480Z,"15 km SE of Fern Forest, Hawaii",earthquake,0.82,1.29999995,4.97,3,automatic,hv,hv
 2022-06-23T09:31:25.410Z,61.8414,-148.5869,16.7,0.9,ml,,,,0.26,ak,ak0227zx1zj1,2022-06-23T09:32:46.925Z,"8 km NW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-23T09:25:30.701Z,38.153,-117.893,8.7,1.1,ml,11,163.56,0.054,0.1344,nn,nn00841529,2022-06-23T09:29:11.470Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.13,7,automatic,nn,nn
@@ -59,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-23T03:09:53.080Z,35.9388333,-117.6755,4.32,0.5,ml,8,82,0.05997,0.06,ci,ci40289488,2022-06-23T03:13:25.472Z,"21km E of Little Lake, CA",earthquake,0.2,0.48,0.038,4,automatic,ci,ci
 2022-06-23T03:01:56.572Z,58.5951,-152.3751,35.7,1.7,ml,,,,0.72,ak,ak0227ztb0tl,2022-06-23T03:07:43.037Z,"67 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:29:26.980Z,33.395,-116.4348333,10.79,1.26,ml,47,58,0.1097,0.21,ci,ci40289480,2022-06-23T02:40:41.350Z,"16km NNW of Borrego Springs, CA",earthquake,0.25,0.43,0.144,28,automatic,ci,ci
-2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"33 km N of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-23T02:27:57.025Z,61.443,-151.1601,13.1,1.1,ml,,,,0.28,ak,ak0227zsv5va,2022-06-23T02:29:09.317Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-23T02:19:44.200Z,19.2014999389648,-155.525497436523,-0.610000014305115,2.27,ml,33,65,,0.270000011,hv,hv73052497,2022-06-23T02:25:14.600Z,"4 km W of Pāhala, Hawaii",earthquake,0.45,0.230000004,4.32,5,automatic,hv,hv
 2022-06-23T02:16:58.160Z,33.1861667,-115.6213333,2.1,0.94,ml,6,158,0.003201,0.12,ci,ci40289472,2022-06-23T02:20:31.137Z,"11km WSW of Niland, CA",earthquake,1.93,0.56,0.163,5,automatic,ci,ci
 2022-06-23T02:11:31.918Z,61.6814,-151.3434,136.8,1.3,ml,,,,0.79,ak,ak0227zsroh3,2022-06-23T02:13:48.580Z,"34 km S of Skwentna, Alaska",earthquake,,3.4,,,automatic,ak,ak
