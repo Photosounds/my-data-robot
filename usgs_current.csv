@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-11T10:19:12.930Z,36.5545006,-121.1333313,8.18,1.58,md,13,101,0.0453,0.27,nc,nc73757401,2022-07-11T10:31:10.467Z,"3km NNE of Pinnacles, CA",earthquake,0.85,2.17,0.1,10,automatic,nc,nc
+2022-07-11T10:19:12.930Z,36.5545006,-121.1333313,8.18,1.58,md,13,101,0.0453,0.27,nc,nc73757401,2022-07-11T10:43:12.528Z,"3km NNE of Pinnacles, CA",earthquake,0.85,2.17,0.1,10,automatic,nc,nc
 2022-07-11T10:09:14.507Z,62.9081,-148.3477,12,1.4,ml,,,,0.85,ak,ak0228tp6xfe,2022-07-11T10:11:58.387Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-11T10:01:20.610Z,33.5223333,-116.517,12.38,0.7,ml,20,55,0.03697,0.21,ci,ci40301672,2022-07-11T10:04:50.123Z,"15km ESE of Anza, CA",earthquake,0.37,0.65,0.193,15,automatic,ci,ci
 2022-07-11T10:01:01.094Z,38.232,-117.8347,4.6,1.9,ml,15,144.35,0.123,0.1995,nn,nn00842566,2022-07-11T10:04:50.881Z,"29 km SE of Mina, Nevada",earthquake,,0.6,0.36,10,automatic,nn,nn
@@ -196,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T11:35:40.770Z,38.7705,-122.738,0.82,0.03,md,17,73,0.01276,0.03,nc,nc73757051,2022-07-10T17:36:10.847Z,"2km ESE of The Geysers, CA",earthquake,0.22,0.25,0.111,4,reviewed,nc,nc
 2022-07-10T11:18:29.290Z,48.83416666666667,-122.12916666666666,-0.41,2.0100000000000002,ml,17,47,0.05707,0.31,uw,uw61851512,2022-07-10T16:36:58.340Z,"6 km E of Deming, Washington",earthquake,0.36,1.24,0.09249773408024309,13,reviewed,uw,uw
 2022-07-10T10:58:43.390Z,33.5175,-116.4325,5.5,0.41,ml,16,75,0.09143,0.14,ci,ci40301192,2022-07-10T15:21:26.239Z,"20km SW of La Quinta, CA",earthquake,0.28,1.35,0.215,7,reviewed,ci,ci
-2022-07-10T10:46:37.578Z,64.4255,-149.5258,13.7,0.7,ml,,,,0.36,ak,ak0228s1vk7h,2022-07-10T10:48:45.548Z,"18 km WNW of Anderson, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-10T10:43:45.380Z,38.8334999,-122.8171692,1.46,0.85,md,8,86,0.01151,0.01,nc,nc73757041,2022-07-10T11:23:11.421Z,"8km NW of The Geysers, CA",earthquake,0.35,1.13,,1,automatic,nc,nc
