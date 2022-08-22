@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T20:02:25.240Z,35.0621667,-118.3391667,-1.01,1.13,ml,26,44,0.07143,0.15,ci,ci40329928,2022-08-22T20:18:38.363Z,"13km SE of Tehachapi, CA",quarry blast,0.29,31.61,0.124,21,reviewed,ci,ci
 2022-08-22T19:17:54.420Z,19.441333770752,-155.616165161133,-0.800000011920929,1.83000004,md,23,92,,0.370000005,hv,hv73117922,2022-08-22T19:21:00.290Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.860000014,1.20000005,10,automatic,hv,hv
 2022-08-22T19:16:51.497Z,64.3428,-149.6846,14.7,0.8,ml,,,,0.88,ak,ak022arb5zh9,2022-08-22T19:20:03.806Z,"24 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-08-22T19:14:38.786Z,39.9924,-119.5703,16.9,0.1,ml,5,188.01,0.201,0.1736,nn,nn00845632,2022-08-22T22:49:23.115Z,"5 km NNE of Sutcliffe, Nevada",earthquake,,3.9,0.22,3,reviewed,nn,nn
 2022-08-22T19:07:46.860Z,44.795,-110.8091667,4.81,0.62,md,8,232,0.03018,0.16,uu,uu60510747,2022-08-22T20:00:38.030Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.71,0.6,0.238,5,reviewed,uu,uu
 2022-08-22T19:01:35.307Z,60.5632,-144.0091,6.7,2.3,ml,,,,0.58,ak,ak022arb2qhm,2022-08-22T19:22:07.040Z,"96 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-22T18:58:14.950Z,34.9965,-118.19,-0.82,1.28,ml,24,52,0.1216,0.18,ci,ci40329904,2022-08-22T19:40:00.654Z,"6km SSW of Mojave, CA",quarry blast,0.32,31.61,0.097,22,reviewed,ci,ci
@@ -229,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T23:00:15.590Z,59.988,-153.329833333333,23.95,0.15,ml,5,310,,0.04,av,av91666191,2022-08-22T17:58:44.950Z,"48 km ENE of Pedro Bay, Alaska",earthquake,2.15,1.31,0.285051449759142,5,reviewed,av,av
 2022-08-21T22:59:05.424Z,64.6193,-149.4175,22.9,0.8,ml,,,,0.71,ak,ak022appo1ng,2022-08-22T05:57:41.511Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-08-21T22:54:53.040Z,35.4476667,-118.2843333,7.02,1.02,ml,14,75,0.1473,0.08,ci,ci40329416,2022-08-22T19:53:13.221Z,"24km SE of Bodfish, CA",earthquake,0.17,1.33,0.144,10,reviewed,ci,ci
-2022-08-21T22:48:36.200Z,35.077,-95.51866667,7.49,1.89,ml,63,57,0.1313742199,0.27,ok,ok2022qjpw,2022-08-22T12:34:30.343Z,"14 km WSW of Quinton, Oklahoma",earthquake,,0.6,0.23,11,reviewed,ok,ok
