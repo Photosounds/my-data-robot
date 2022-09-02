@@ -251,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T21:42:50.990Z,35.6041667,-117.3563333,2.44,-0.22,ml,4,200,0.07933,0.09,ci,ci40094583,2022-09-02T17:25:12.662Z,"18km S of Trona, CA",earthquake,1.05,0.82,0.05,2,reviewed,ci,ci
 2022-09-01T21:36:36.370Z,36.5513333,-121.0946667,2.05,1.93,md,26,85,0.04477,0.09,nc,nc73774420,2022-09-02T07:05:12.528Z,"5km ENE of Pinnacles, CA",earthquake,0.27,0.49,0.172,25,reviewed,nc,nc
 2022-09-01T21:33:25.070Z,36.558,-121.0938333,1.76,1.8,md,20,117,0.04823,0.06,nc,nc73774415,2022-09-02T16:49:11.901Z,"5km ENE of Pinnacles, CA",earthquake,0.22,0.48,0.302,19,reviewed,nc,nc
-2022-09-01T21:25:08.310Z,35.9885,-117.5015,5.72,0.74,ml,12,132,0.09687,0.1,ci,ci40094567,2022-09-02T00:34:56.281Z,"26km NNW of Searles Valley, CA",earthquake,0.28,0.69,0.147,5,reviewed,ci,ci
-2022-09-01T21:23:49.160Z,35.9868333,-117.4993333,4.21,1.29,ml,16,106,0.09747,0.11,ci,ci40094559,2022-09-02T00:31:53.306Z,"26km NNW of Searles Valley, CA",earthquake,0.26,0.58,0.124,14,reviewed,ci,ci
