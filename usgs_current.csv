@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-09T07:52:23.630Z,38.7873344,-122.7683334,2.45,0.46,md,8,122,0.01488,0.01,nc,nc73791301,2022-10-09T07:53:58.828Z,"2km NW of The Geysers, CA",earthquake,0.42,0.87,0.4,2,automatic,nc,nc
 2022-10-09T07:31:54.050Z,38.7976685,-122.7513351,2.24,0.46,md,12,95,0.007181,0.02,nc,nc73791296,2022-10-09T07:33:29.677Z,"2km N of The Geysers, CA",earthquake,0.32,0.89,0.41,2,automatic,nc,nc
 2022-10-09T07:25:10.620Z,38.7985001,-122.7331696,1.11,1.24,md,23,105,0.01549,0.05,nc,nc73791291,2022-10-09T07:39:16.886Z,"3km SSW of Cobb, CA",earthquake,0.27,0.43,0.06,6,automatic,nc,nc
 2022-10-09T07:12:30.540Z,38.7926674,-122.8058319,3.4,0.84,md,22,79,0.004843,0.03,nc,nc73791286,2022-10-09T07:14:03.584Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.56,0.28,4,automatic,nc,nc
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T04:14:32.980Z,34.0163333,-116.755,18.1,0.9,ml,19,77,0.04768,0.21,ci,ci40358016,2022-10-09T04:18:09.214Z,"11km NNE of Cabazon, CA",earthquake,0.39,0.87,0.17,28,automatic,ci,ci
 2022-10-09T04:11:24.920Z,34.0241667,-117.2263333,11.89,1.23,ml,39,29,0.09765,0.18,ci,ci40358008,2022-10-09T04:14:51.375Z,"4km SE of Loma Linda, CA",earthquake,0.21,0.64,0.182,26,automatic,ci,ci
 2022-10-09T04:10:03.760Z,38.7976685,-122.7526703,1.69,0.86,md,14,95,0.006244,0.03,nc,nc73791221,2022-10-09T04:45:03.326Z,"2km N of The Geysers, CA",earthquake,0.33,0.53,0.24,4,automatic,nc,nc
-2022-10-09T04:05:14.750Z,35.8356,-115.8332,0,1.8,ml,22,151.46,0.407,0.3502,nn,nn00848876,2022-10-09T04:09:55.006Z,"18 km W of Sandy Valley, Nevada",earthquake,,22.5,0.8,14,automatic,nn,nn
+2022-10-09T04:05:14.750Z,35.8356,-115.8332,0,1.8,ml,22,151.46,0.407,0.3502,nn,nn00848876,2022-10-09T04:09:55.006Z,"California-Nevada border region",earthquake,,22.5,0.8,14,automatic,nn,nn
 2022-10-09T04:04:53.942Z,61.5564,-151.3003,13.7,0.8,ml,,,,0.27,ak,ak022cyfykr5,2022-10-09T04:07:42.960Z,"41 km W of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-10-09T04:03:11.100Z,61.5456,-151.3054,16.5,1.1,ml,,,,0.33,ak,ak022cyfy9om,2022-10-09T04:05:21.548Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-09T03:59:00.050Z,38.8338318,-122.8154984,1.69,0.85,md,10,83,0.01125,0.01,nc,nc73791216,2022-10-09T04:00:34.982Z,"8km NW of The Geysers, CA",earthquake,0.34,0.92,,1,automatic,nc,nc
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-08T08:17:29.934Z,61.4849,-146.6583,19.6,1.6,ml,,,,0.67,ak,ak022cwuvozx,2022-10-08T21:52:31.004Z,"42 km NNW of Valdez, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-10-08T08:05:03.539Z,38.6014,-119.4437,1.1,1.4,ml,19,76.12,0.062,0.2399,nn,nn00848855,2022-10-08T08:08:11.684Z,"Central California",earthquake,,0.9,0.17,12,automatic,nn,nn
 2022-10-08T07:58:31.889Z,31.5342,-104.146,5,2.8,ml,26,79,0.21,0.41,us,us6000is26,2022-10-08T08:07:29.040Z,"western Texas",earthquake,0.76,1.761,0.048,56,reviewed,us,us
-2022-10-08T07:50:29.205Z,44.727,-73.9073,8.923,1.6,ml,10,78,0.494,0.34,us,us6000is23,2022-10-08T09:01:44.040Z,"0 km NE of Lyon Mountain, New York",earthquake,1.72,1.613,0.115,10,reviewed,us,us
