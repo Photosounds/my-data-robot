@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-15T22:16:42.364Z,59.4876,-151.9358,69,2.3,ml,,,,0.39,ak,ak022d8nz08m,2022-10-15T23:09:34.040Z,"13 km WNW of Seldovia, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-15T22:14:28.790Z,19.4941673278809,-155.653167724609,-1.37999999523163,1.86000001,md,14,98,,0.200000003,hv,hv73180887,2022-10-15T22:19:58.300Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.660000026,1.03999996,6,automatic,hv,hv
 2022-10-15T22:14:06.470Z,38.8133316,-122.8154984,1.84,1.9,md,35,51,0.01091,0.04,nc,nc73794126,2022-10-15T23:59:19.410Z,"6km NW of The Geysers, CA",earthquake,0.16,0.24,0.08,9,automatic,nc,nc
-2022-10-15T21:50:37.150Z,19.2310009002686,-155.390502929688,32.2900009155273,2.27,ml,46,146,,0.159999996,hv,hv73180867,2022-10-15T22:58:11.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.810000002,4.28,7,automatic,hv,hv
