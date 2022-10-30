@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T16:25:00.440Z,35.053,-117.5505,0.29,1.71,ml,26,81,0.1683,0.2,ci,ci40127303,2022-10-30T16:35:51.960Z,"11km ENE of Boron, CA",earthquake,0.31,31.61,0.127,25,automatic,ci,ci
 2022-10-30T16:18:16.660Z,38.8149986,-122.7703323,0.16,0.35,md,8,139,0.008272,0.05,nc,nc73801276,2022-10-30T18:10:13.137Z,"4km W of Cobb, CA",earthquake,0.37,0.91,,1,automatic,nc,nc
 2022-10-30T16:12:11.186Z,-6.767,129.6897,137.962,4.6,mb,41,63,2.001,0.43,us,us7000ilcb,2022-10-30T16:34:19.040Z,"Banda Sea",earthquake,9.21,5.708,0.096,35,reviewed,us,us
-2022-10-30T16:06:56.724Z,60.9239,-150.4311,36.5,2.1,ml,,,,0.42,ak,ak022dxdehzc,2022-10-30T16:09:09.417Z,"Kenai Peninsula, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-10-30T16:06:56.724Z,60.9239,-150.4311,36.5,2.1,ml,,,,0.42,ak,ak022dxdehzc,2022-10-30T16:09:09.417Z,"13 km E of Point Possession, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-10-30T16:00:30.530Z,32.7883333,-116.6348333,0.31,0.94,ml,9,182,0.1125,0.19,ci,ci40127295,2022-10-30T16:04:05.926Z,"10km WSW of Pine Valley, CA",earthquake,0.94,31.61,0.089,10,automatic,ci,ci
 2022-10-30T15:54:41.817Z,59.8868,-152.3078,78,2.2,ml,,,,0.51,ak,ak022dxd3blh,2022-10-30T15:56:17.159Z,"29 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-30T15:49:36.750Z,38.8423347,-122.8258362,1.68,0.97,md,18,76,0.008414,0.03,nc,nc73801256,2022-10-30T17:18:15.722Z,"9km WNW of Cobb, CA",earthquake,0.25,0.43,0.21,3,automatic,nc,nc
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T19:41:33.959Z,51.3073,-174.2699,21.294,4.7,mb,78,137,0.897,0.82,us,us7000il7u,2022-10-30T00:53:19.971Z,"99 km S of Atka, Alaska",earthquake,8.22,6.348,0.056,98,reviewed,us,us
 2022-10-29T19:40:36.359Z,51.3603,-174.2229,31.917,4.5,mb,92,141,0.843,0.71,us,us7000il7k,2022-10-30T00:48:10.299Z,"93 km S of Atka, Alaska",earthquake,6.12,5.826,0.062,76,reviewed,us,us
 2022-10-29T19:30:31.320Z,19.4190006256104,-155.261169433594,1.16999995708466,1.75,md,9,98,,0.119999997,hv,hv73200112,2022-10-29T19:33:25.780Z,"3 km SW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.879999995,9,automatic,hv,hv
-2022-10-29T19:25:23.500Z,17.9995,-66.8303333333333,15.77,2.11,md,11,165,0.05253,0.17,pr,pr71380203,2022-10-29T19:37:15.340Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.5,0.56,0.130746567160427,8,reviewed,pr,pr
