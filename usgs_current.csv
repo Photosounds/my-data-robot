@@ -3,6 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T06:27:02.048Z,58.2128,-155.3151,0,1.3,ml,,,,0.89,ak,ak022efehd6k,2022-11-10T06:28:36.214Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-10T06:13:35.237Z,61.947,-149.8664,29,1.9,ml,,,,0.57,ak,ak022efeefpv,2022-11-10T06:15:33.750Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-10T06:01:55.905Z,59.6252,-152.0189,52.7,2.1,ml,,,,0.5,ak,ak022efebwpy,2022-11-10T06:03:38.777Z,"19 km SSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-11-10T05:56:27.688Z,4.208,96.4141,11.154,4.5,mb,39,92,1.145,0.47,us,us7000inqi,2022-11-10T06:59:48.040Z,"32 km ENE of Meulaboh, Indonesia",earthquake,6.13,4.597,0.11,27,reviewed,us,us
 2022-11-10T05:39:15.030Z,33.4775,-116.504,12.17,1.09,ml,39,58,0.07985,0.21,ci,ci40130639,2022-11-10T05:42:49.240Z,"18km ESE of Anza, CA",earthquake,0.27,0.53,0.13,27,automatic,ci,ci
 2022-11-10T05:39:04.690Z,33.4786667,-116.5006667,11.45,0.74,ml,27,58,0.08261,0.17,ci,ci40130631,2022-11-10T05:42:44.011Z,"18km ESE of Anza, CA",earthquake,0.29,0.58,0.15,21,automatic,ci,ci
 2022-11-10T05:24:45.570Z,19.4933333333333,-155.657666666667,2.65,1.02,md,13,90,,0.06,hv,hv73214967,2022-11-10T05:36:16.430Z,"Island of Hawaii, Hawaii",earthquake,0.31,0.88,0.11690609261555,6,reviewed,hv,hv
