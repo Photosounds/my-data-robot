@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T11:51:41.185Z,59.8847,-152.0923,90.6,1.7,ml,,,,0.61,ak,ak022fj6i39i,2022-12-04T11:53:57.137Z,"18 km NW of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-04T11:41:26.337Z,38.5243,-119.5512,1.4,1.5,ml,12,125.43,0.066,0.1831,nn,nn00852544,2022-12-04T11:44:05.387Z,"Central California",earthquake,,3.5,0.34,7,automatic,nn,nn
 2022-12-04T11:38:47.213Z,60.8424,-147.7006,114,1.4,ml,,,,1.17,ak,ak022fj6fbf5,2022-12-04T11:40:52.218Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-04T11:22:55.551Z,62.4893,-148.103,30.4,1.8,ml,,,,0.77,ak,ak022fj6bwlv,2022-12-04T11:24:22.810Z,"78 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T12:27:50.090Z,31.9276667,-116.25,18.99,2.29,ml,10,118,0.268,0.15,ci,ci40141519,2022-12-03T12:31:25.455Z,"36km E of Ensenada, B.C., MX",earthquake,0.54,0.97,0.162,24,automatic,ci,ci
 2022-12-03T12:20:18.840Z,34.091,-117.269,10.14,1.34,ml,57,40,0.03977,0.23,ci,ci40141511,2022-12-03T12:23:59.289Z,"4km ENE of Colton, CA",earthquake,0.25,0.71,0.178,27,automatic,ci,ci
 2022-12-03T12:00:05.360Z,33.2133333,-116.745,10.71,0.76,ml,29,68,0.02536,0.21,ci,ci40141503,2022-12-03T12:03:35.288Z,"4km SSE of Lake Henshaw, CA",earthquake,0.35,0.63,0.143,16,automatic,ci,ci
-2022-12-03T11:45:29.008Z,-17.7013,-69.5322,161.859,4.8,mb,44,78,0.122,0.97,us,us6000j6n4,2022-12-03T12:06:53.040Z,"46 km E of Palca, Peru",earthquake,6.14,6.327,0.067,70,reviewed,us,us
