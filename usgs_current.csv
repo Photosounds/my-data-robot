@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T16:34:39.143Z,-23.4574,-66.8752,215.61,4.3,mb,20,68,1.301,0.78,us,us6000j6vi,2022-12-04T16:58:50.040Z,"101 km NW of San Antonio de los Cobres, Argentina",earthquake,12.05,10.606,0.189,8,reviewed,us,us
 2022-12-04T16:29:57.850Z,61.3308,-145.9817,34.7,0.3,ml,,,,0.2,ak,ak022fj9cktl,2022-12-04T16:31:11.108Z,"29 km NE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T16:28:11.160Z,19.2266674041748,-155.386672973633,32.3499984741211,1.88,md,31,150,,0.129999995,hv,hv73258597,2022-12-04T16:31:27.840Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.66,1.00999999,1.26999998,9,automatic,hv,hv
 2022-12-04T16:17:53.660Z,33.9663333,-116.7121667,8.08,0.96,ml,36,60,0.08961,0.24,ci,ci40141975,2022-12-04T16:21:28.917Z,"9km NE of Cabazon, CA",earthquake,0.34,1.15,0.191,27,automatic,ci,ci
@@ -43,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T11:41:26.337Z,38.5243,-119.5512,1.4,1.5,ml,12,125.43,0.066,0.1831,nn,nn00852544,2022-12-04T11:44:05.387Z,"Central California",earthquake,,3.5,0.34,7,automatic,nn,nn
 2022-12-04T11:38:47.213Z,60.8424,-147.7006,114,1.4,ml,,,,1.17,ak,ak022fj6fbf5,2022-12-04T11:40:52.218Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-04T11:38:27.310Z,19.4556666666667,-155.599,-1.01,1.68,md,10,77,,0.13,hv,hv73258042,2022-12-04T13:51:07.820Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.28,0.189975223920028,5,reviewed,hv,hv
+2022-12-04T11:29:15.200Z,19.599,-155.547166666667,-1.82,2.97,ml,7,126,,0.17,hv,hv73258012,2022-12-04T16:53:15.780Z,"36 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.71,0.48,0.457904988214545,1,reviewed,hv,hv
 2022-12-04T11:22:55.551Z,62.4893,-148.103,30.4,1.8,ml,,,,0.77,ak,ak022fj6bwlv,2022-12-04T11:24:22.810Z,"78 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T11:19:41.400Z,36.2108333,-117.8503333,8.64,1.18,ml,13,112,0.09313,0.16,ci,ci40141903,2022-12-04T11:23:09.063Z,"16km ESE of Olancha, CA",earthquake,0.4,0.83,0.376,8,automatic,ci,ci
 2022-12-04T11:13:59.095Z,53.9438,-35.5583,10,5.4,mww,130,34,8.959,0.56,us,us6000j6ua,2022-12-04T13:17:57.906Z,"Reykjanes Ridge",earthquake,8.67,1.842,0.043,52,reviewed,us,us
