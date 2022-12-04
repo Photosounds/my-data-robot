@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T07:23:12.270Z,33.711,-116.8255,24.24,0.55,ml,15,117,0.0829,0.19,ci,ci40141735,2022-12-04T07:26:50.710Z,"8km ESE of Valle Vista, CA",earthquake,0.97,0.92,0.201,7,automatic,ci,ci
 2022-12-04T07:04:46.590Z,19.1111660003662,-155.407165527344,30.9200000762939,1.92999995,md,40,187,,0.159999996,hv,hv73257482,2022-12-04T07:08:04.660Z,"Island of Hawaii, Hawaii",earthquake,0.67,1.03999996,0.400000006,11,automatic,hv,hv
 2022-12-04T07:02:57.228Z,60.644,-141.7418,16,2.7,ml,,,,0.79,ak,ak022fj3tvzu,2022-12-04T07:04:42.117Z,"108 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T06:51:27.297Z,62.8632,-150.3312,78.2,1.6,ml,,,,0.43,ak,ak022fj3iw61,2022-12-04T06:54:20.376Z,"46 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -196,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-03T07:34:24.090Z,38.8101654,-122.7541656,0.53,0.89,md,7,184,0.01047,0.03,nc,nc73814146,2022-12-03T08:06:12.925Z,"3km WSW of Cobb, CA",earthquake,0.51,0.78,0.22,9,automatic,nc,nc
 2022-12-03T07:32:37.520Z,19.0246,-66.765,35,3.64,md,23,244,0.596,0.28,pr,pr2022337000,2022-12-03T14:14:34.040Z,"Puerto Rico region",earthquake,0.94,4.8,0.04,11,reviewed,pr,pr
 2022-12-03T07:31:34.820Z,38.8061676,-122.7555008,0.56,0.86,md,10,105,0.006439,0.02,nc,nc73814141,2022-12-03T07:55:11.997Z,"3km N of The Geysers, CA",earthquake,0.38,0.56,0.2,10,automatic,nc,nc
-2022-12-03T07:26:49.710Z,33.8471667,-117.6461667,9.17,0.9,ml,17,97,0.06025,0.25,ci,ci40141447,2022-12-03T07:30:24.304Z,"8km WSW of Corona, CA",earthquake,0.63,0.94,0.368,20,automatic,ci,ci
-2022-12-03T07:25:02.240Z,38.8306656,-122.809166,1.93,1.31,md,26,44,0.007295,0.01,nc,nc73814136,2022-12-03T09:46:12.449Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,27,automatic,nc,nc
