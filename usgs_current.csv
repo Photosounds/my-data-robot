@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-17T08:54:46.500Z,33.9741669,-116.8248367,17.58,1.14,ml,25,78,0.06246,0.11,ci,ci40391424,2022-12-17T08:56:51.843Z,"7km NNW of Cabazon, CA",earthquake,0.33,0.92,0.183,6,automatic,ci,ci
 2022-12-17T08:33:12.763Z,38.7363,-119.376,7.2,1.2,ml,9,91.66,0.188,0.0625,nn,nn00853580,2022-12-17T08:35:40.511Z,"5 km SSW of Smith Valley, Nevada",earthquake,,2.1,0.33,5,automatic,nn,nn
 2022-12-17T08:24:05.973Z,63.9643,-148.8394,108.1,1.9,ml,,,,0.54,ak,ak022g4mjfth,2022-12-17T08:26:09.081Z,"13 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-17T08:08:45.625Z,61.563,-150.6078,61.1,1.6,ml,,,,0.69,ak,ak022g4mg3f6,2022-12-17T08:11:04.546Z,"5 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -251,4 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-16T09:03:15.840Z,18.0215,-67.0395,12.86,2.27,md,15,79,0.02994,0.12,pr,pr71387483,2022-12-16T09:52:42.240Z,"3 km SSE of Lajas, Puerto Rico",earthquake,0.35,0.42,0.261669252673069,6,reviewed,pr,pr
 2022-12-16T09:01:09.864Z,39.1102,-119.7373,10.4,-0.3,ml,4,137.53,0.109,0.0578,nn,nn00853534,2022-12-16T21:20:00.995Z,"4 km ENE of Indian Hills, Nevada",earthquake,,9.2,0,1,reviewed,nn,nn
 2022-12-16T08:58:03.397Z,31.67515288,-104.4075586,6.697143555000001,2.7,ml,21,66,0.02820886605,0.2,tx,tx2022yoii,2022-12-17T03:55:05.622Z,"western Texas",earthquake,1.071344802,0.9416835205,0.1,13,reviewed,tx,tx
-2022-12-16T08:54:27.330Z,37.6343333,-119.4091667,13.26,1.53,md,14,114,0.2619,0.05,nc,nc73819291,2022-12-16T19:59:12.655Z,"19km SE of Yosemite Valley, CA",earthquake,0.35,1.56,0.393,17,reviewed,nc,nc
