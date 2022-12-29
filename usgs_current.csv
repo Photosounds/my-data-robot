@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T14:53:31.501Z,36.53846741,-98.96805573,2.844576597,2.65,ml,26,49.77682495,0.04899346456,0.5296105712,ok,ok2022zksb,2022-12-28T19:16:59.690Z,"9 km WSW of Waynoka, Oklahoma",earthquake,2.608140453,1.564899734,,19,automatic,ok,ok
 2022-12-28T14:45:59.363Z,36.7004,-116.2766,5.2,-0.2,ml,3,243.29,0.039,0.013,nn,nn00854284,2022-12-29T02:41:45.102Z,"48 km ESE of Beatty, Nevada",earthquake,,9.2,0.13,2,reviewed,nn,nn
 2022-12-28T14:41:46.728Z,61.5486,-149.8096,32.8,1.5,ml,,,,0.47,ak,ak022gmx4l74,2022-12-28T14:43:25.437Z,"8 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-28T14:13:49.290Z,32.6766667,-115.8263333,5.23,1.94,ml,24,81,0.08861,0.24,ci,ci40150863,2022-12-28T18:15:39.327Z,"17km ESE of Ocotillo, CA",earthquake,0.5,1.73,0.239,27,reviewed,ci,ci
-2022-12-28T14:10:47.883Z,61.6383,-146.5957,26,1.9,ml,,,,0.77,ak,ak022gmwxy38,2022-12-28T14:12:43.726Z,"40 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
