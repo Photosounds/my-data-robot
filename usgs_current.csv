@@ -207,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T09:09:47.950Z,33.3688333,-116.886,5.83,1.53,ml,56,26,0.1237,0.24,ci,ci40163095,2023-01-28T09:20:20.080Z,"2km NW of Palomar Observatory, CA",earthquake,0.23,1.29,0.173,26,automatic,ci,ci
 2023-01-28T09:09:44.510Z,36.3188333333333,-81.4701666666667,3.8,1.77,md,5,197,0.3424,0.09,se,se60500363,2023-01-29T01:19:30.543Z,"Virginia-North Carolina border region",earthquake,1.18,4.38,0.0985283192821131,4,reviewed,se,se
 2023-01-28T08:54:28.120Z,33.524,-116.5688333,13.07,0.45,ml,22,67,0.04009,0.21,ci,ci40163087,2023-01-28T08:57:59.299Z,"10km ESE of Anza, CA",earthquake,0.43,0.59,0.137,9,automatic,ci,ci
-2023-01-28T08:37:03.310Z,33.5141667,-116.5755,11.94,1.57,ml,60,47,0.02936,0.2,ci,ci40163079,2023-01-28T08:47:57.700Z,"10km ESE of Anza, CA",earthquake,0.19,0.35,0.191,26,automatic,ci,ci
-2023-01-28T08:34:09.050Z,34.6581667,-116.3005,2.87,1.11,ml,10,78,0.1253,0.1,ci,ci40163071,2023-01-28T08:37:35.221Z,"15km WSW of Ludlow, CA",earthquake,0.22,1.01,0.107,12,automatic,ci,ci
