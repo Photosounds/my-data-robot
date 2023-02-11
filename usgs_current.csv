@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-11T15:25:01.850Z,19.2526664733887,-155.366165161133,31.0300006866455,1.80999994,md,31,147,,0.109999999,hv,hv73322927,2023-02-11T15:28:12.720Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.73,0.899999976,0.239999995,5,automatic,hv,hv
+2023-02-11T15:18:37.980Z,32.9326667,-115.5328333,5.79,1.44,ml,16,91,0.03896,0.22,ci,ci40413488,2023-02-11T15:22:08.963Z,"5km S of Brawley, CA",earthquake,0.53,0.76,0.211,22,automatic,ci,ci
 2023-02-11T14:41:20.189Z,36.67,-116.3411,7.6,-0.1,ml,9,151.72,0.025,0.1959,nn,nn00855980,2023-02-11T14:42:12.532Z,"45 km SE of Beatty, Nevada",earthquake,,0.9,0.83,5,automatic,nn,nn
 2023-02-11T14:26:26.670Z,38.8333321,-122.8154984,1.81,0.28,md,14,55,0.01079,0.01,nc,nc73844991,2023-02-11T14:44:14.967Z,"8km NW of The Geysers, CA",earthquake,0.28,0.75,0.17,16,automatic,nc,nc
 2023-02-11T14:21:20.156Z,61.7308,-149.8266,28.6,1.8,ml,,,,0.35,ak,ak0231xp16sv,2023-02-11T14:23:21.237Z,"11 km N of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -192,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T15:36:32.430Z,38.8356667,-122.8393326,2.1,2.83,md,54,25,0.004187,0.06,nc,nc73844546,2023-02-10T21:30:59.040Z,"10km NW of The Geysers, CA",earthquake,0.15,0.23,0.18,65,automatic,nc,nc
 2023-02-10T15:36:24.220Z,19.0381666666667,-155.415166666667,34.07,2.78,ml,38,206,,0.13,hv,hv73322507,2023-02-11T02:24:01.170Z,"Hawaii region, Hawaii",earthquake,0.54,0.89,0.138261660751379,17,reviewed,hv,hv
 2023-02-10T15:30:43.800Z,44.768,-111.0148333,7.83,0.2,md,11,135,0.01065,0.1,uu,uu60530876,2023-02-10T19:59:00.330Z,"13 km NNE of West Yellowstone, Montana",earthquake,0.44,0.68,0.235,7,reviewed,uu,uu
-2023-02-10T15:20:57.440Z,44.7993333,-110.9618333,8.82,0.81,md,13,168,0.05096,0.11,uu,uu60530871,2023-02-10T19:52:17.480Z,"Wyoming",earthquake,0.53,0.93,0.279,7,reviewed,uu,uu
-2023-02-10T15:20:39.520Z,58.1905,-155.316666666667,2.31,0.62,ml,8,152,,0.08,av,av91758591,2023-02-11T05:13:07.490Z,"86 km NW of Karluk, Alaska",earthquake,0.25,0.34,0.299337422891702,8,reviewed,av,av
