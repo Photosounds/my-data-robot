@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T06:00:13.270Z,40.4828339,-124.2710037,14.02,2.34,md,6,302,0.161,0.05,nc,nc73850531,2023-02-23T08:11:20.178Z,"10km S of Ferndale, CA",earthquake,3.86,2.09,0.11,5,automatic,nc,nc
 2023-02-23T05:54:55.480Z,35.7061667,-117.5575,4.74,1.29,ml,21,156,0.1023,0.14,ci,ci40417968,2023-02-23T17:38:28.991Z,"14km NE of Ridgecrest, CA",earthquake,0.23,0.62,0.131,13,reviewed,ci,ci
 2023-02-23T05:41:43.685Z,61.9706,-150.4098,32.8,1.4,ml,,,,0.6,ak,ak0232he8sf4,2023-02-23T05:56:57.727Z,"31 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-23T05:33:08.130Z,44.1468333,-110.6375,10.35,0.89,md,13,120,0.1412,0.12,uu,uu60531941,2023-02-23T14:17:48.820Z,"54 km NE of Alta, Wyoming",earthquake,0.44,1.1,0.027,6,reviewed,uu,uu
