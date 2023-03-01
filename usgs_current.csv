@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-01T06:36:51.009Z,66.3691,-154.4993,0,2.6,ml,,,,0.98,ak,ak0232rc18z0,2023-03-01T06:39:47.683Z,"37 km NNW of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-01T06:15:10.620Z,66.3767,-154.7377,0,2.8,ml,,,,1,ak,ak0232rbwnrx,2023-03-01T06:18:58.412Z,"42 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-01T06:04:47.060Z,19.4276,-65.3783,74,4.05,md,17,266,1.1242,0.36,pr,pr2023060002,2023-03-01T06:37:18.254Z,"120 km NNE of Vieques, Puerto Rico",earthquake,3.34,7.69,0.03,2,reviewed,pr,pr
-2023-03-01T06:04:01.763Z,66.3938,-154.4547,0,3.9,ml,,,,0.85,ak,ak0232rbuag8,2023-03-01T06:11:36.033Z,"39 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-01T05:57:59.415Z,59.0367,-151.1886,36.5,4,ml,,,,0.53,ak,ak0232rbkc00,2023-03-01T06:34:04.751Z,"50 km SE of Port Graham, Alaska",earthquake,,0.7,,,reviewed,ak,ak
+2023-03-01T06:04:01.763Z,66.3938,-154.4547,0,3.9,ml,,,,0.85,ak,ak0232rbuag8,2023-03-01T06:39:52.040Z,"39 km NNW of Hughes, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-01T05:57:59.415Z,59.0367,-151.1886,36.5,4,ml,,,,0.53,ak,ak0232rbkc00,2023-03-01T06:42:06.495Z,"50 km SE of Port Graham, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-03-01T05:55:41.983Z,58.311,-157.7433,8.8,2.8,ml,,,,1.28,ak,ak0232rbjuhz,2023-03-01T06:01:13.848Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
 2023-03-01T05:39:15.120Z,38.8045006,-122.8219986,2.42,0.36,md,11,79,0.007105,0.02,nc,nc73853361,2023-03-01T05:56:15.498Z,"6km WNW of The Geysers, CA",earthquake,0.42,0.82,0.14,12,automatic,nc,nc
 2023-03-01T05:36:15.000Z,-4.8138,149.487,598.925,6.5,mww,115,20,2.739,0.88,us,us7000jgfd,2023-03-01T06:07:21.405Z,"108 km NW of Kimbe, Papua New Guinea",earthquake,9.16,5.526,0.073,18,reviewed,us,us
