@@ -168,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T05:57:17.050Z,35.6318333,-117.4173333,6,1.12,ml,17,135,0.05816,0.19,ci,ci40420728,2023-03-04T06:00:55.021Z,"15km SSW of Trona, CA",earthquake,0.54,0.91,0.154,12,automatic,ci,ci
 2023-03-04T05:45:36.600Z,38.8218346,-122.7639999,1.95,1.05,md,15,120,0.009783,0.01,nc,nc73855231,2023-03-04T08:20:11.501Z,"4km W of Cobb, CA",earthquake,0.28,0.46,0.22,15,automatic,nc,nc
 2023-03-04T05:44:33.620Z,35.6575,-117.461,0.87,1.26,ml,10,184,0.07085,0.22,ci,ci40420720,2023-03-04T05:48:11.930Z,"13km SSW of Searles Valley, CA",earthquake,1.17,1.27,0.198,11,automatic,ci,ci
-2023-03-04T05:38:26.589Z,62.116,-147.3527,21.4,2,ml,,,,1.2,ak,ak0232wa28ea,2023-03-04T05:40:29.241Z,"22 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
