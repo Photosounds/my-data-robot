@@ -224,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T21:48:06.647Z,59.5316,-152.0124,61.8,1.7,ml,,,,0.51,ak,ak0233lcph3s,2023-03-19T21:51:08.512Z,"19 km WNW of Seldovia, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-19T21:40:35.900Z,17.4415,-68.8423333333333,76.07,3.67,md,7,344,1.744,0.08,pr,pr71400858,2023-03-19T23:05:32.750Z,"106 km SSW of Boca de Yuma, Dominican Republic",earthquake,2.84,7.18,0.071914776986022,2,reviewed,pr,pr
 2023-03-19T21:38:17.610Z,58.1596666666667,-155.302833333333,0.21,0.22,ml,6,183,,0.06,av,av91812596,2023-03-20T00:10:49.680Z,"82 km NW of Karluk, Alaska",earthquake,0.28,2.55,0.409492764685015,6,reviewed,av,av
-2023-03-19T21:27:49.050Z,33.1663333,-116.0235,7.28,0.74,ml,21,101,0.03903,0.16,ci,ci40187223,2023-03-20T19:35:00.418Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.35,0.57,0.073,7,reviewed,ci,ci
