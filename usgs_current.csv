@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-30T11:06:03.050Z,33.1868333,-116.5848333,15.65,0.96,ml,11,180,0.05378,0.29,ci,ci39507770,2023-03-30T11:09:46.633Z,"12km SSE of Warner Springs, CA",earthquake,1.37,1.06,0.295,14,automatic,ci,ci
+2023-03-30T11:22:17.569Z,35.23591232,-97.72674561,3.667599201,2.23,ml,12,111.8792629,0.02372472547,0.4366886598,ok,ok2023gfqu,2023-03-30T11:23:26.430Z,"Oklahoma",earthquake,3.565158821,2.840827287,0.37,6,automatic,ok,ok
+2023-03-30T11:15:32.300Z,62.3584,-149.179,0,1.3,ml,,,,0.55,ak,ak02343dgxu5,2023-03-30T11:17:51.180Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-30T11:06:03.050Z,33.1868333,-116.5848333,15.65,0.96,ml,11,180,0.05378,0.29,ci,ci39507770,2023-03-30T11:15:21.372Z,"12km SSE of Warner Springs, CA",earthquake,1.37,1.06,0.295,14,automatic,ci,ci
 2023-03-30T11:02:04.494Z,58.2528,-155.1864,2.9,0.5,ml,,,,0.44,ak,ak02343de3dt,2023-03-30T11:03:41.655Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-30T11:00:37.355Z,60.8069,-150.6126,59.6,1.2,ml,,,,0.38,ak,ak02343ddqhj,2023-03-30T11:02:09.524Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-30T10:56:59.510Z,38.8341675,-122.8153305,1.8,1.54,md,29,46,0.01151,0.02,nc,nc73864405,2023-03-30T11:11:12.104Z,"8km W of Cobb, CA",earthquake,0.17,0.31,0.15,28,automatic,nc,nc
@@ -318,8 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T11:31:14.832Z,36.4709,-115.2712,12.2,0.4,ml,4,199.22,0.098,0.1594,nn,nn00857621,2023-03-29T20:20:47.363Z,"31 km NW of Nellis Air Force Base, Nevada",earthquake,,3.4,1,3,reviewed,nn,nn
 2023-03-29T11:25:40.400Z,44.5223333,-110.3576667,4.83,0.79,md,8,72,0.04915,0.12,uu,uu60032984,2023-03-29T14:29:55.850Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.35,0.55,0.478,4,reviewed,uu,uu
 2023-03-29T11:25:14.770Z,44.5226667,-110.359,3.85,1.27,md,15,68,0.04829,0.17,uu,uu60535391,2023-03-29T14:27:18.690Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.31,0.74,0.377,12,reviewed,uu,uu
-2023-03-29T11:22:13.110Z,44.5191667,-110.3686667,2.01,0.37,md,6,181,0.04727,0.14,uu,uu60032979,2023-03-29T14:23:40.000Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.57,10.84,0.311,3,reviewed,uu,uu
-2023-03-29T11:20:26.910Z,44.522,-110.3545,3.69,2.47,ml,22,67,0.05088,0.2,uu,uu60535386,2023-03-30T04:10:22.040Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.39,0.73,0.267,6,reviewed,uu,uu
-2023-03-29T11:16:28.400Z,44.5213333,-110.3586667,4.07,2.25,ml,22,61,0.04948,0.18,uu,uu60535381,2023-03-29T14:41:50.090Z,"57 km SSE of Mammoth, Wyoming",earthquake,0.29,0.57,0.263,4,reviewed,uu,uu
-2023-03-29T11:16:02.750Z,38.8349991,-122.7910004,1.59,0.27,md,9,83,0.003443,0.01,nc,nc73863925,2023-03-29T13:19:12.142Z,"6km WNW of Cobb, CA",earthquake,0.38,1.15,0.17,9,automatic,nc,nc
-2023-03-29T11:16:00.530Z,33.8196667,-116.9928333,14.04,0.66,ml,18,111,0.1115,0.17,ci,ci40191215,2023-03-29T14:03:20.289Z,"5km NW of San Jacinto, CA",earthquake,0.42,0.93,0.084,5,reviewed,ci,ci
