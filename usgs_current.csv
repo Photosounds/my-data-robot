@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-07T02:55:24.120Z,38.7898331,-122.7269974,1.73,0.58,md,7,174,0.01006,0.01,nc,nc73868330,2023-04-07T02:57:00.057Z,"3km ENE of The Geysers, CA",earthquake,0.5,2.12,0.19,5,automatic,nc,nc
+2023-04-07T02:51:50.058Z,35.23508072,-97.75326538,11.71007824,1.81,ml,10,69.01979065,0.003712560749,0.4986613571,ok,ok2023gtpz,2023-04-07T02:54:13.624Z,"Oklahoma",earthquake,,6.628663687,0.4,7,automatic,ok,ok
+2023-04-07T02:49:13.110Z,39.4146652,-123.0943298,-0.73,2.48,md,23,77,0.04864,0.17,nc,nc73868325,2023-04-07T02:50:50.261Z,"12km W of Lake Pillsbury, CA",earthquake,0.36,2.11,0.13,22,automatic,nc,nc
 2023-04-07T02:41:34.250Z,33.0101667,-116.438,10.19,1,ml,32,62,0.04463,0.22,ci,ci40437384,2023-04-07T02:45:05.854Z,"17km ESE of Julian, CA",earthquake,0.3,0.72,0.169,20,automatic,ci,ci
 2023-04-07T02:26:30.820Z,38.7888336,-122.7676697,1.16,0.72,md,7,102,0.01332,0.02,nc,nc73868310,2023-04-07T02:47:14.468Z,"2km NW of The Geysers, CA",earthquake,0.38,0.97,0.04,7,automatic,nc,nc
 2023-04-07T02:25:41.520Z,34.014,-117.2163333,8.52,1.03,ml,32,94,0.07567,0.2,ci,ci40437368,2023-04-07T02:29:37.007Z,"6km SW of Redlands, CA",earthquake,0.32,0.75,0.282,30,automatic,ci,ci
