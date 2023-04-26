@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-26T16:41:58.650Z,33.0413333,-116.3988333,3.34,1.03,ml,25,74,0.07004,0.19,ci,ci40445936,2023-04-26T16:45:29.541Z,"19km ESE of Julian, CA",earthquake,0.31,0.59,0.135,20,automatic,ci,ci
+2023-04-26T16:54:46.804Z,58.092,-155.5704,21.2,0.8,ml,,,,0.48,ak,ak0235c46v8o,2023-04-26T16:56:15.384Z,"88 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-04-26T16:47:10.210Z,19.4011669158936,-155.325332641602,2.52999997138977,1.92,ml,27,71,,0.180000007,hv,hv73377627,2023-04-26T16:52:39.940Z,"10 km WSW of Volcano, Hawaii",earthquake,0.36,0.360000014,0.23,4,automatic,hv,hv
+2023-04-26T16:41:58.650Z,33.0413333,-116.3988333,3.34,1.03,ml,25,74,0.07004,0.19,ci,ci40445936,2023-04-26T16:52:48.890Z,"19km ESE of Julian, CA",earthquake,0.31,0.59,0.135,20,automatic,ci,ci
 2023-04-26T16:35:36.310Z,19.3330001831055,-155.11833190918,1.37000000476837,1.76,ml,30,123,,0.219999999,hv,hv73377612,2023-04-26T16:41:06.810Z,"14 km S of Fern Forest, Hawaii",earthquake,0.35,0.479999989,0.38,5,automatic,hv,hv
 2023-04-26T16:34:42.731Z,60.2914,-147.2974,23.1,1.9,ml,,,,0.5,ak,ak0235c42klt,2023-04-26T16:36:54.438Z,"46 km ENE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-26T16:25:46.320Z,19.1678333282471,-155.464660644531,32.7599983215332,1.94000006,md,33,168,,0.140000001,hv,hv73377602,2023-04-26T16:29:38.040Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.6,0.879999995,0.959999979,8,automatic,hv,hv
@@ -130,8 +132,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T01:48:46.180Z,33.6441667,-116.7613333,10.42,0.3,ml,15,63,0.07754,0.29,ci,ci40445672,2023-04-26T01:52:21.548Z,"11km SSW of Idyllwild, CA",earthquake,0.73,1.48,0.156,8,automatic,ci,ci
 2023-04-26T01:44:17.170Z,62.4671,-149.1268,15.2,1.3,ml,,,,0.39,ak,ak0235bv75px,2023-04-26T01:46:30.855Z,"50 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-26T01:44:04.180Z,33.7691667,-116.9321667,14.48,0.66,ml,22,199,0.08217,0.12,ci,ci40445664,2023-04-26T16:47:07.693Z,"3km SE of San Jacinto, CA",earthquake,0.42,0.49,0.077,12,reviewed,ci,ci
-2023-04-26T01:42:06.940Z,38.8336667,-122.8075,2.46,1.35,md,35,49,0.01045,0.02,nc,nc73877800,2023-04-26T16:48:22.919Z,"7km W of Cobb, CA",earthquake,0.14,0.29,0.145,31,reviewed,nc,nc
-2023-04-26T01:41:02.150Z,38.8283333,-122.8541667,3.48,0.43,md,18,62,0.002256,0.04,nc,nc73877795,2023-04-26T16:36:15.065Z,"10km NW of The Geysers, CA",earthquake,0.25,0.44,0.184,18,reviewed,nc,nc
+2023-04-26T01:42:06.940Z,38.8336667,-122.8075,2.46,1.35,md,35,49,0.01045,0.02,nc,nc73877800,2023-04-26T16:52:11.149Z,"7km W of Cobb, CA",earthquake,0.14,0.29,0.145,31,reviewed,nc,nc
+2023-04-26T01:41:02.150Z,38.8283333,-122.8541667,3.48,0.43,md,18,62,0.002256,0.04,nc,nc73877795,2023-04-26T16:55:15.166Z,"10km NW of The Geysers, CA",earthquake,0.25,0.44,0.184,18,reviewed,nc,nc
 2023-04-26T01:29:17.818Z,57.6512,-155.5286,90.7,1.8,ml,,,,0.17,ak,ak0235bv3y11,2023-04-26T01:31:03.045Z,"64 km W of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-26T01:18:53.004Z,-6.6486,155.5569,109.646,5,mb,38,66,4.168,0.86,us,us7000jvxc,2023-04-26T01:36:06.040Z,"37 km SSE of Panguna, Papua New Guinea",earthquake,9.22,8.055,0.103,30,reviewed,us,us
 2023-04-26T01:18:32.030Z,36.12533333,-97.67883333,6,1.46,ml,90,32,0.01529699821,0.26,ok,ok2023icfl,2023-04-26T12:13:50.864Z,"5 km WSW of Marshall, Oklahoma",earthquake,,0.4,0.25,44,reviewed,ok,ok
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-25T17:21:03.860Z,64.2516,-147.3789,0,1.4,ml,,,,0.39,ak,ak0235ah1seq,2023-04-25T17:23:03.900Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-25T17:17:42.750Z,18.0033333333333,-66.9348333333333,13.31,1.7,md,3,205,0.05991,0.23,pr,pr71406728,2023-04-25T17:28:53.190Z,"Puerto Rico region",earthquake,6.8,2.63,0.119484935442804,3,reviewed,pr,pr
 2023-04-25T17:08:53.363Z,56.854,-155.6013,7.1,2,ml,,,,0.51,ak,ak0235agz3pm,2023-04-25T18:07:19.137Z,"87 km W of Akhiok, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2023-04-25T16:52:38.880Z,19.3891666666667,-155.277166666667,1.57,2.41,ml,30,55,,0.1,hv,hv73376202,2023-04-26T00:56:57.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.12,0.0832004091878695,8,reviewed,hv,hv
-2023-04-25T16:51:07.462Z,61.8384,-148.8232,20.2,0.6,ml,,,,0.46,ak,ak0235agmska,2023-04-25T16:53:38.264Z,"7 km NNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
