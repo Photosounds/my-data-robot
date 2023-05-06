@@ -97,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T16:27:53.000Z,34.4908333333333,-85.5005,10.43,1.98,md,11,150,0.1036,0.13,se,se60500683,2023-05-05T18:11:22.960Z,"2 km WNW of Menlo, Georgia",earthquake,0.73,1.32,0.0941868934712176,10,reviewed,se,se
 2023-05-05T16:25:49.450Z,36.53816667,-98.95883333,6.96,1.44,ml,52,74,0.04589099462,0.15,ok,ok2023itux,2023-05-05T16:35:53.445Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.2,0.23,21,reviewed,ok,ok
 2023-05-05T16:24:09.040Z,34.4926666666667,-85.5006666666667,9.95,2.38,md,17,114,0.1026,0.13,se,se60523806,2023-05-05T19:42:56.200Z,"Alabama",earthquake,0.33,0.51,0.065159216434588,13,reviewed,se,se
+2023-05-05T16:22:22.420Z,58.1826666666667,-155.283,1.2,-0.33,ml,5,152,,0.02,av,av91875196,2023-05-06T02:57:53.100Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.9,0.188904860996494,5,reviewed,av,av
 2023-05-05T16:17:07.361Z,39.9861,-119.9983,8.7,0.7,ml,4,161.03,0.139,0.0601,nn,nn00859109,2023-05-05T20:07:03.516Z,"10 km ESE of Doyle, California",earthquake,,7,0.02,3,reviewed,nn,nn
 2023-05-05T16:16:27.730Z,33.0591667,-114.9991667,-0.19,1.14,ml,11,67,0.0885,0.24,ci,ci40219455,2023-05-05T18:45:05.707Z,"45km NE of Holtville, CA",quarry blast,0.61,31.61,0.102,7,reviewed,ci,ci
 2023-05-05T16:02:13.482Z,62.9451,-149.4617,67,1,ml,,,,0.75,ak,ak0235qzprvo,2023-05-05T16:04:05.714Z,"56 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -255,7 +256,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T05:03:30.310Z,19.4168333333333,-155.324833333333,4.45,1.27,md,12,129,,0.12,hv,hv73389657,2023-05-05T20:48:46.570Z,"9 km WSW of Volcano, Hawaii",earthquake,0.58,0.93,0.184213514275698,6,reviewed,hv,hv
 2023-05-05T05:03:27.560Z,59.5595,-153.0184,89,2.5,ml,,,,0.3,ak,ak0235qt68yg,2023-05-05T09:44:27.040Z,"66 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T05:00:41.170Z,17.8491666666667,-66.8976666666667,6.45,1.75,md,3,300,0.1264,0.09,pr,pr71408223,2023-05-05T12:06:31.800Z,"13 km S of Guánica, Puerto Rico",earthquake,0.96,0.47,0.0014176269644669,2,reviewed,pr,pr
-2023-05-05T04:58:26.980Z,38.7936667,-122.7631667,2.21,1.15,md,42,63,0.007454,0.05,nc,nc73883996,2023-05-06T02:50:45.689Z,"2km NNW of The Geysers, CA",earthquake,0.17,0.31,0.203,35,reviewed,nc,nc
+2023-05-05T04:58:26.980Z,38.7936667,-122.7631667,2.21,1.15,md,42,63,0.007454,0.05,nc,nc73883996,2023-05-06T02:58:10.824Z,"2km NNW of The Geysers, CA",earthquake,0.17,0.31,0.203,35,reviewed,nc,nc
 2023-05-05T04:55:49.645Z,61.7882,-149.8912,33,1.4,ml,,,,0.5,ak,ak0235qsw0d0,2023-05-05T04:57:07.893Z,"8 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-05T04:45:20.172Z,31.64792978,-104.1845074,7.879711914,1.8,ml,36,65,0.08595024843,0.2,tx,tx2023isxu,2023-05-05T18:20:33.062Z,"52 km NW of Toyah, Texas",earthquake,0.6989110141,0.9064996263,0,6,reviewed,tx,tx
 2023-05-05T04:45:14.230Z,34.431,-119.072,2.95,0.85,ml,12,88,0.05446,0.17,ci,ci40219263,2023-05-05T14:01:24.633Z,"9km N of Santa Paula, CA",earthquake,0.31,0.38,0.136,6,reviewed,ci,ci
@@ -280,8 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T03:09:55.850Z,38.7794991,-122.7488327,-0.72,1.15,md,17,169,0.01017,0.16,nc,nc73883966,2023-05-05T05:36:10.908Z,"1km ENE of The Geysers, CA",earthquake,0.6,1.4,0.12,16,automatic,nc,nc
 2023-05-05T03:08:24.736Z,64.9749,-147.3597,4.2,1.1,ml,,,,0.25,ak,ak0235qs0g6h,2023-05-05T03:10:29.771Z,"12 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T03:07:53.003Z,13.2263,143.8581,136.475,4.6,mb,64,61,1.047,0.65,us,us6000k9lq,2023-05-05T03:25:53.040Z,"87 km W of Umatac Village, Guam",earthquake,9.67,3.738,0.049,122,reviewed,us,us
-2023-05-05T03:01:16.590Z,58.254,-155.101166666667,3.8,-0.12,ml,8,93,,0.08,av,av91874441,2023-05-05T20:54:13.260Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.52,0.160319003165842,8,reviewed,av,av
-2023-05-05T02:55:48.352Z,58.2576,-155.0884,3,0.8,ml,,,,0.08,ak,ak0235qrp51v,2023-05-05T20:49:22.050Z,"85 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-05T02:54:30.290Z,58.2571666666667,-155.088166666667,4.68,-0.38,ml,7,100,,0.17,av,av91874421,2023-05-05T20:45:05.440Z,"85 km NNW of Karluk, Alaska",earthquake,0.42,0.66,0.177406181754013,7,reviewed,av,av
-2023-05-05T02:53:50.660Z,58.2561666666667,-155.0935,5.02,-0.66,ml,7,103,,0.19,av,av91874416,2023-05-05T20:42:33.770Z,"85 km NNW of Karluk, Alaska",earthquake,0.45,0.88,0.135051372766017,7,reviewed,av,av
-2023-05-05T02:51:47.038Z,68.134,-159.2553,0,2.1,ml,,,,0.38,ak,ak0235qroa32,2023-05-05T02:55:42.182Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
