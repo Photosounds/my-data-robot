@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-21T11:30:02.490Z,38.8231659,-122.8526688,2.44,0.76,md,15,90,0.005469,0.02,nc,nc73890751,2023-05-21T11:31:36.211Z,"10km WNW of The Geysers, CA",earthquake,0.3,0.56,0.39,17,automatic,nc,nc
+2023-05-21T11:29:54.640Z,33.3865,-116.9561667,14.95,1.18,ml,44,28,0.06335,0.19,ci,ci40230335,2023-05-21T11:33:38.412Z,"9km WNW of Palomar Observatory, CA",earthquake,0.19,0.51,0.133,27,automatic,ci,ci
+2023-05-21T11:29:44.920Z,19.0393333435059,-155.397003173828,32.9199981689453,2.51999998,md,43,238,,0.180000007,hv,hv73413597,2023-05-21T11:33:53.130Z,"19 km E of Naalehu, Hawaii",earthquake,0.64,1.13,1.63999999,6,automatic,hv,hv
+2023-05-21T11:27:37.421Z,37.2941,-117.5671,1.9,1.4,ml,17,196.28,0.528,0.2984,nn,nn00859943,2023-05-21T11:29:51.404Z,"51 km S of Silver Peak, Nevada",earthquake,,17,0.73,11,automatic,nn,nn
+2023-05-21T11:23:38.227Z,37.2792,-117.6369,7.3,0.8,ml,8,264.57,0.047,0.4033,nn,nn00859942,2023-05-21T11:25:59.530Z,"California-Nevada border region",earthquake,,2.4,0.79,4,automatic,nn,nn
 2023-05-21T11:13:39.612Z,37.2772,-117.5865,2.7,1.2,ml,16,126.27,0.065,0.2242,nn,nn00859938,2023-05-21T11:16:10.647Z,"53 km S of Silver Peak, Nevada",earthquake,,3.7,0.87,10,automatic,nn,nn
 2023-05-21T11:11:03.538Z,37.2996,-117.5781,0,1.8,ml,25,103.71,0.086,0.2111,nn,nn00859936,2023-05-21T11:14:02.476Z,"50 km S of Silver Peak, Nevada",earthquake,,15.3,0.74,19,automatic,nn,nn
 2023-05-21T11:06:12.690Z,32.9238333,-115.8251667,6.89,0.98,ml,16,53,0.03002,0.24,ci,ci40230327,2023-05-21T11:09:43.965Z,"23km WSW of Westmorland, CA",earthquake,0.45,0.87,0.16,12,automatic,ci,ci
