@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-23T02:34:19.080Z,38.8118324,-122.8221664,2.23,1.09,md,24,51,0.006227,0.02,nc,nc73891506,2023-05-23T02:35:52.979Z,"7km NW of The Geysers, CA",earthquake,0.21,0.35,0.14,26,automatic,nc,nc
+2023-05-23T02:52:37.890Z,38.8330002,-122.8178329,1.28,0.82,md,8,87,0.01135,0.01,nc,nc73891511,2023-05-23T02:54:13.108Z,"8km NW of The Geysers, CA",earthquake,0.34,1.03,0.21,7,automatic,nc,nc
+2023-05-23T02:34:19.080Z,38.8118324,-122.8221664,2.23,1.09,md,24,51,0.006227,0.02,nc,nc73891506,2023-05-23T02:49:10.177Z,"7km NW of The Geysers, CA",earthquake,0.21,0.35,0.14,26,automatic,nc,nc
 2023-05-23T02:33:46.750Z,33.5398333,-116.5008333,8.47,0.57,ml,12,147,0.09436,0.26,ci,ci40231951,2023-05-23T02:37:25.338Z,"16km E of Anza, CA",earthquake,1.08,1.77,0.161,14,automatic,ci,ci
 2023-05-23T02:29:41.300Z,33.4975,-116.443,4.71,1.29,ml,50,32,0.0296,0.22,ci,ci40231943,2023-05-23T02:40:28.780Z,"22km SW of La Quinta, CA",earthquake,0.22,0.8,0.204,26,automatic,ci,ci
 2023-05-23T02:29:19.850Z,32.3626667,-115.5036667,13.4,1.59,ml,7,112,0.1866,0.17,ci,ci40231935,2023-05-23T02:32:56.526Z,"25km SSE of Progreso, B.C., MX",earthquake,0.8,2.19,0.112,5,automatic,ci,ci
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T23:28:42.070Z,38.7698326,-122.7249985,7.44,0.45,md,6,207,0.008228,0.05,nc,nc73891436,2023-05-22T23:30:16.654Z,"3km ESE of The Geysers, CA",earthquake,2.31,6.6,0.32,6,automatic,nc,nc
 2023-05-22T23:27:54.520Z,35.0298333,-117.684,0.24,1.59,ml,18,95,0.09576,0.28,ci,ci40231887,2023-05-22T23:32:30.588Z,"5km NW of Boron, CA",quarry blast,0.89,31.61,0.118,32,automatic,ci,ci
 2023-05-22T23:27:12.800Z,38.840332,-122.8236694,1.98,0.36,md,12,90,0.009392,0.02,nc,nc73891431,2023-05-23T00:12:14.331Z,"9km WNW of Cobb, CA",earthquake,0.33,0.82,0.24,12,automatic,nc,nc
-2023-05-22T23:18:22.790Z,19.2496662139893,-155.393997192383,31.6000003814697,2.36,ml,44,134,,0.150000006,hv,hv73416402,2023-05-22T23:23:54.000Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.639999986,2.76,10,automatic,hv,hv
+2023-05-22T23:18:22.790Z,19.2496662139893,-155.393997192383,31.6000003814697,2.36,ml,44,134,,0.150000006,hv,hv73416402,2023-05-23T02:50:33.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.59,0.639999986,2.76,10,automatic,hv,hv
 2023-05-22T23:15:59.718Z,61.5912,-149.963,32.7,1.4,ml,,,,0.36,ak,ak0236j83ldv,2023-05-22T23:47:12.120Z,"7 km N of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-22T23:13:29.080Z,31.5801,-104.5581,6.693,2.5,ml,31,74,0.101,0.31,us,us7000k33w,2023-05-23T00:23:48.040Z,"65 km NNE of Van Horn, Texas",earthquake,1.7,4.769,0.064,52,reviewed,us,us
 2023-05-22T23:11:46.527Z,61.0059,-152.0907,13.2,1.3,ml,,,,0.34,ak,ak0236j82pi4,2023-05-22T23:14:11.877Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
