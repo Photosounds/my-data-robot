@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-27T03:13:45.087Z,62.834,-148.4803,53.5,1.8,ml,,,,0.58,ak,ak0236r5v770,2023-05-27T03:15:34.051Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-05-27T02:53:54.390Z,33.5945,-116.8216667,13.22,1.08,ml,41,43,0.04158,0.21,ci,ci40234727,2023-05-27T02:57:35.700Z,"14km WNW of Anza, CA",earthquake,0.27,0.48,0.156,26,automatic,ci,ci
 2023-05-27T02:30:06.785Z,62.9848,-150.7401,95.1,1.9,ml,,,,0.4,ak,ak0236r5dbt2,2023-05-27T02:32:01.017Z,"54 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-27T02:17:31.679Z,35.0668602,-97.87082672,8.03780365,1.76,ml,14,72.93678284,0.1245865673,0.4179557682,ok,ok2023kgxz,2023-05-27T02:20:12.714Z,"6 km ENE of Chickasha, Oklahoma",earthquake,3.717271882,4.045823409,0.24,6,automatic,ok,ok
@@ -275,4 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-26T03:21:14.870Z,17.9568333333333,-66.9618333333333,15.53,2.4,md,5,204,0.07942,0.09,pr,pr71411033,2023-05-26T03:43:38.020Z,"Puerto Rico",earthquake,0.69,0.55,0.0442673640111004,4,reviewed,pr,pr
 2023-05-26T03:19:30.260Z,58.175,-155.325333333333,2.04,-0.33,ml,8,111,,0.07,av,av91772247,2023-05-26T20:29:52.450Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.52,0.243157828350964,8,reviewed,av,av
 2023-05-26T03:19:09.560Z,35.5755,-82.8626666666667,1.56,1.82,md,7,116,0.1023,0.23,se,se60500748,2023-05-26T12:51:52.540Z,"4 km N of West Canton, North Carolina",earthquake,0.91,5.09,0.0348751213710607,6,reviewed,se,se
-2023-05-26T03:05:24.100Z,37.4921667,-122.3121667,12.56,1.08,md,21,86,0.02454,0.07,nc,nc73890000,2023-05-26T07:40:14.087Z,"4km SE of Highlands-Baywood Park, CA",earthquake,0.36,0.49,0.465,15,reviewed,nc,nc
