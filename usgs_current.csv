@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-27T17:39:33.320Z,36.3153343,-120.8876648,5.74,1.38,md,11,100,0.05391,0.02,nc,nc73906031,2023-06-27T17:42:25.851Z,"22km WSW of New Idria, CA",earthquake,0.27,0.5,0.13,5,automatic,nc,nc
+2023-06-27T17:38:48.980Z,38.8351669,-122.8028336,2.09,0.6,md,11,58,0.01028,0.01,nc,nc73906026,2023-06-27T17:40:24.963Z,"7km WNW of Cobb, CA",earthquake,0.37,1.23,0.39,12,automatic,nc,nc
 2023-06-27T16:55:18.651Z,-7.0461,129.8895,125.135,5,mb,69,37,2.507,0.77,us,us6000kngi,2023-06-27T17:13:12.040Z,"Kepulauan Babar, Indonesia",earthquake,7.97,6.844,0.073,61,reviewed,us,us
 2023-06-27T16:50:21.973Z,63.3097,-145.325,7.5,1.5,ml,,,,0.22,ak,ak02386nhh2t,2023-06-27T16:52:03.328Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-27T16:49:21.560Z,41.8093333,-112.2746667,0.41,0.83,md,10,83,0.1256,0.26,uu,uu60544127,2023-06-27T17:02:31.750Z,"10 km WNW of Riverside, Utah",earthquake,0.64,16.02,0.136,5,reviewed,uu,uu
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T14:15:24.700Z,19.1798324584961,-155.506164550781,34.2400016784668,1.87,md,37,98,,0.140000001,hv,hv73463292,2023-06-27T14:18:44.950Z,"3 km SW of Pāhala, Hawaii",earthquake,0.5,0.939999998,0.560000002,7,automatic,hv,hv
 2023-06-27T14:14:33.903Z,63.2239,-151.5346,12.4,1,ml,,,,0.79,ak,ak02386m2x0f,2023-06-27T14:19:39.654Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-27T14:08:10.982Z,60.5153,-141.2129,6.8,1.8,ml,,,,1.06,ak,ak02386m1ky2,2023-06-27T14:09:54.161Z,"136 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-27T14:07:28.437Z,0.5791,-79.9936,36.614,5.1,mww,67,142,0.942,0.93,us,us6000knee,2023-06-27T15:00:12.175Z,"4 km SE of Muisne, Ecuador",earthquake,6.11,4.955,0.089,12,reviewed,us,us
+2023-06-27T14:07:28.437Z,0.5791,-79.9936,36.614,5.1,mww,67,142,0.942,0.93,us,us6000knee,2023-06-27T17:36:49.661Z,"4 km SE of Muisne, Ecuador",earthquake,6.11,4.955,0.089,12,reviewed,us,us
 2023-06-27T14:03:38.851Z,57.7715,-156.353,127.8,2.6,ml,,,,0.65,ak,ak02386m0kjr,2023-06-27T15:17:16.040Z,"68 km ENE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-27T13:56:43.410Z,38.8084984,-122.7921677,1.27,0.77,md,10,60,0.002506,0.02,nc,nc73905971,2023-06-27T14:39:16.212Z,"5km NW of The Geysers, CA",earthquake,0.38,0.62,0.16,11,automatic,nc,nc
 2023-06-27T13:56:09.056Z,60.4221,-150.8294,41.8,1.5,ml,,,,0.5,ak,ak02386lqfk9,2023-06-27T13:58:07.716Z,"9 km SSW of Funny River, Alaska",earthquake,,1,,,automatic,ak,ak
