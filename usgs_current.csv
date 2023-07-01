@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-01T20:43:04.460Z,33.5188333,-116.5305,10.95,1.15,ml,37,43,0.06456,0.23,ci,ci40501760,2023-07-01T20:46:38.121Z,"14km ESE of Anza, CA",earthquake,0.29,0.55,0.225,26,automatic,ci,ci
 2023-07-01T20:27:28.666Z,61.0145,-149.5007,34.7,0.7,ml,,,,0.73,ak,ak0238dbvoiq,2023-07-01T20:29:20.912Z,"13 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-01T20:18:47.920Z,19.1438331604004,-155.499664306641,35.0299987792969,2.04,ml,40,148,,0.100000001,hv,hv73467407,2023-07-01T20:24:18.980Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.54,0.829999983,4.29,10,automatic,hv,hv
 2023-07-01T20:03:22.988Z,64.7104,-147.799,17.5,0.6,ml,,,,0.61,ak,ak0238dbqiwa,2023-07-01T20:05:48.109Z,"11 km S of South Van Horn, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-30T20:59:41.310Z,40.223,-121.1495,5.48,3.22,ml,44,28,0.02487,0.18,nc,nc73907241,2023-06-30T23:44:14.182Z,"2km NNE of Prattville, CA",earthquake,0.29,0.47,0.174,47,reviewed,nc,nc
 2023-06-30T20:58:18.399Z,62.1036,-149.7361,36,1.6,ml,,,,0.43,ak,ak0238boiyfj,2023-06-30T21:00:24.518Z,"8 km SE of Susitna North, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2023-06-30T20:53:20.190Z,40.2076667,-124.1193333,14.01,1.55,md,17,95,0.04786,0.08,nc,nc73907231,2023-07-01T04:22:14.839Z,"19km SE of Petrolia, CA",earthquake,0.25,0.39,0.144,15,reviewed,nc,nc
-2023-06-30T20:41:42.090Z,38.4883333,-112.8388333,0.17,-0.41,md,8,219,0.02709,0.06,uu,uu60544407,2023-06-30T20:52:33.860Z,"Utah",earthquake,0.75,31.61,0.316,3,reviewed,uu,uu
