@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-16T04:27:20.040Z,36.0055008,-120.5628357,4.51,1.28,md,10,102,0.02162,0.04,nc,nc73913511,2023-07-16T04:28:57.797Z,"17 km NW of Parkfield, CA",earthquake,0.64,0.67,0.24,6,automatic,nc,nc
+2023-07-16T04:32:47.291Z,63.9442,-150.1605,33.6,0.7,ml,,,,0.69,ak,ak02391vg2au,2023-07-16T04:35:08.089Z,"51 km W of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-16T04:27:20.040Z,36.0055008,-120.5628357,4.51,1.28,md,10,102,0.02162,0.04,nc,nc73913511,2023-07-16T04:38:11.103Z,"17 km NW of Parkfield, CA",earthquake,0.64,0.67,0.24,6,automatic,nc,nc
 2023-07-16T04:16:30.086Z,58.1746,-155.2472,0,0.3,ml,,,,0.37,ak,ak02391vclhc,2023-07-16T04:18:39.701Z,"82 km NW of Karluk, Alaska",earthquake,,117.9,,,automatic,ak,ak
 2023-07-16T04:14:38.240Z,18.6255,-66.581,5.54,2.83,md,9,263,0.3223,0.18,pr,pr71418073,2023-07-16T04:27:49.120Z,"19 km N of Garrochales, Puerto Rico",earthquake,0.87,1.16,0.0904457896731814,4,reviewed,pr,pr
 2023-07-16T04:08:08.500Z,33.9678333,-116.9418333,6.64,1.55,ml,51,41,0.05642,0.21,ci,ci39613986,2023-07-16T04:11:48.758Z,"5km NE of Beaumont, CA",earthquake,0.19,0.56,0.171,26,automatic,ci,ci
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T05:00:06.000Z,58.2451666666667,-155.060333333333,10.03,-0.19,ml,7,114,,0.12,av,av91963731,2023-07-15T22:15:03.360Z,"83 km NNW of Karluk, Alaska",earthquake,0.58,0.78,0.233829771694444,7,reviewed,av,av
 2023-07-15T04:56:17.080Z,60.5346666666667,-152.837833333333,5.8,-0.73,ml,6,118,,0.09,av,av91963726,2023-07-15T22:07:44.010Z,"Southern Alaska",earthquake,0.41,0.95,0.270233842006664,6,reviewed,av,av
 2023-07-15T04:47:24.920Z,19.1533336639404,-155.485000610352,32.8499984741211,1.84000003,md,29,142,,0.109999999,hv,hv73482242,2023-07-15T04:50:51.070Z,"5 km S of Pāhala, Hawaii",earthquake,0.83,1.19000006,0.100000001,5,automatic,hv,hv
-2023-07-15T04:30:19.670Z,33.968,-116.645,16.26,1.24,ml,39,41,0.06425,0.18,ci,ci39613426,2023-07-15T04:34:35.354Z,"11km SW of Morongo Valley, CA",earthquake,0.23,0.53,0.128,26,automatic,ci,ci
