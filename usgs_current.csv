@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-20T21:00:25.800Z,32.7793333,-116.8898333,-0.34,1.21,ml,21,85,0.06216,0.24,ci,ci39617954,2023-07-21T15:52:29.468Z,"5km SE of Bostonia, CA",quarry blast,0.39,31.61,0.119,13,reviewed,ci,ci
 2023-07-20T20:58:22.510Z,36.4805,-89.5476666666667,10.75,1.7,md,24,55,0.05856,0.08,nm,nm60537556,2023-07-21T15:05:27.620Z,"7 km SE of Marston, Missouri",earthquake,0.18,0.41,0.181133965873609,22,reviewed,nm,nm
 2023-07-20T20:44:10.380Z,36.7624,-116.2605,8.8,1.2,ml,34,44.85,0.026,0.1243,nn,nn00863038,2023-07-20T22:44:41.474Z,"California-Nevada border region",earthquake,,0.5,0.19,15,reviewed,nn,nn
-2023-07-20T20:35:21.100Z,58.1706666666667,-155.335333333333,2.32,0.09,ml,9,118,,0.08,av,av91971321,2023-07-20T22:13:01.960Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.43,0.282021521019006,9,reviewed,av,av
