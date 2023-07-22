@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T09:54:14.440Z,33.4818333,-116.5346667,13.46,0.62,ml,21,85,0.05788,0.14,ci,ci39619162,2023-07-22T09:57:47.533Z,"15km ESE of Anza, CA",earthquake,0.31,0.48,0.08,17,automatic,ci,ci
 2023-07-22T09:45:59.605Z,38.4474,-119.4038,6.4,1,ml,6,127.68,0.063,0.1794,nn,nn00863113,2023-07-22T14:21:51.519Z,"9 km SE of Walker, California",earthquake,,4.5,0.2,3,reviewed,nn,nn
 2023-07-22T09:38:54.345Z,31.6504,-104.347,5,2.5,mb_lg,16,114,0.132,0.36,us,us7000khl1,2023-07-22T09:51:45.115Z,"58 km S of Whites City, New Mexico",earthquake,1.37,1.914,0.089,45,reviewed,us,us
-2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-22T16:53:48.082Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
+2023-07-22T09:24:22.027Z,31.93450928,-102.3422018,7.898885091,3.6,ml,14,82,0.0253545631,0.1,tx,tx2023ofue,2023-07-22T17:32:51.779Z,"10 km NNE of Odessa, Texas",earthquake,0.8546630342,0.7678531700999999,0.1,6,reviewed,tx,tx
 2023-07-22T09:17:45.432Z,64.674,-147.4794,24.4,0.1,ml,,,,0.74,ak,ak0239bvk3db,2023-07-22T09:23:38.917Z,"10 km SW of North Pole, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-22T09:17:10.976Z,38.4427,-119.3795,5.9,1.1,ml,6,337.35,0.077,0.1743,nn,nn00863112,2023-07-22T14:18:43.989Z,"11 km SE of Walker, California",earthquake,,2.6,0.01,2,reviewed,nn,nn
 2023-07-22T09:07:57.440Z,33.2675,-116.4191667,3.82,0.46,ml,15,108,0.00182,0.18,ci,ci39619146,2023-07-22T09:11:26.600Z,"4km WNW of Borrego Springs, CA",earthquake,0.39,0.47,0.096,6,automatic,ci,ci
@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-21T17:39:03.540Z,47.60583333333334,-122.99716666666667,46.56,2.42,ml,38,70,0.05799,0.25,uw,uw61942721,2023-07-21T20:54:45.040Z,"11 km SW of Brinnon, Washington",earthquake,0.63,0.74,0.21969570109197867,29,reviewed,uw,uw
 2023-07-21T17:37:03.770Z,46.30416666666667,-119.48733333333334,9.18,0.23,ml,8,235,0.0241,0.09,uw,uw61942716,2023-07-22T05:42:27.470Z,"4 km N of Benton City, Washington",earthquake,0.58,0.85,0.11549504224220955,5,reviewed,uw,uw
 2023-07-21T17:33:45.010Z,33.1668333,-115.6321667,2.28,1.24,ml,22,73,0.01745,0.13,ci,ci39618602,2023-07-21T17:54:26.819Z,"12km WNW of Calipatria, CA",earthquake,0.22,0.26,0.217,16,reviewed,ci,ci
-2023-07-21T17:25:10.070Z,37.0011667,-119.8186667,-0.62,2.07,md,11,192,0.08929,0.25,nc,nc73915276,2023-07-21T18:23:53.952Z,"5 km ENE of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,1.2,31.61,0.072,14,reviewed,nc,nc
-2023-07-21T17:25:07.930Z,46.867333333333335,-121.92783333333334,5.54,0.2,ml,15,77,0.01741,0.11,uw,uw61942706,2023-07-22T05:48:59.110Z,"14 km NNE of Ashford, Washington",earthquake,0.33,0.5,0.08397508820608643,7,reviewed,uw,uw
