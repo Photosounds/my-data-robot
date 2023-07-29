@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T15:31:09.052Z,58.1469,-155.586,19.8,0.7,ml,,,,0.5,ak,ak0239njz1o9,2023-07-29T15:32:21.692Z,"87 km SE of King Salmon, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-29T15:20:28.630Z,38.8001671,-122.7361679,0.71,0.73,md,11,107,0.01691,0.03,nc,nc73917921,2023-07-29T15:22:05.855Z,"3 km SSW of Cobb, CA",earthquake,0.27,0.82,0.11,11,automatic,nc,nc
 2023-07-29T14:27:30.590Z,35.7005,-117.6015,10.97,0.84,ml,11,133,0.1216,0.2,ci,ci39625138,2023-07-29T14:31:04.334Z,"11 km NE of Ridgecrest, CA",earthquake,0.61,0.99,0.231,6,automatic,ci,ci
 2023-07-29T14:23:06.400Z,38.8066673,-122.7776642,2.27,0.29,md,10,81,0.006992,0.02,nc,nc73917911,2023-07-29T15:17:14.212Z,"4 km NNW of The Geysers, CA",earthquake,0.38,0.92,0.08,12,automatic,nc,nc
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T15:42:42.150Z,61.3335,-152.2785,0.97,0.06,ml,8,132,,0.1,av,av91981216,2023-07-29T03:43:58.200Z,"67 km WNW of Beluga, Alaska",earthquake,0.26,2.44,0.191129810932808,8,reviewed,av,av
 2023-07-28T15:40:16.477Z,62.4619,-149.4953,48,1,ml,,,,0.9,ak,ak0239lwhn73,2023-07-28T15:42:41.333Z,"31 km E of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-28T15:37:59.630Z,19.3621673583984,-155.289169311523,1.21000003814697,1.80999994,md,8,268,,0.109999999,hv,hv73500892,2023-07-28T15:40:59.750Z,"10 km SSW of Volcano, Hawaii",earthquake,0.97,0.519999981,1.53999996,6,automatic,hv,hv
-2023-07-28T15:28:56.440Z,35.722,-117.5731667,7.9,1.1,ml,22,60,0.1025,0.17,ci,ci39624338,2023-07-28T19:53:01.255Z,"15 km NE of Ridgecrest, CA",earthquake,0.31,1.04,0.115,7,reviewed,ci,ci
