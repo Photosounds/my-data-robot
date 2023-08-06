@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T03:41:00.975Z,60.3686,-141.4205,9,2.5,ml,,,,0.93,ak,ak023a0l6qwh,2023-08-06T03:42:34.862Z,"131 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-06T03:39:29.839Z,60.344,-141.3535,18.1,2.8,ml,,,,0.2,ak,ak023a0l6dp3,2023-08-06T03:40:32.469Z,"127 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-06T03:05:26.220Z,33.6366667,-116.7495,18.48,0.63,ml,21,67,0.04456,0.23,ci,ci40530552,2023-08-06T03:09:10.758Z,"12 km NW of Anza, CA",earthquake,0.46,0.56,0.249,12,automatic,ci,ci
 2023-08-06T02:58:17.320Z,61.2951,-152.4328,0.3,1.2,ml,,,,0.71,ak,ak023a0kozqc,2023-08-06T03:00:19.099Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T02:53:32.820Z,39.1920013,-123.5006638,0.28,1.79,md,12,85,0.06404,0.06,nc,nc73920896,2023-08-06T03:12:12.680Z,"23 km E of Navarro Head, CA",earthquake,0.28,2.36,0.13,8,automatic,nc,nc
