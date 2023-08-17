@@ -150,5 +150,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-16T10:11:56.540Z,35.767,-121.1978333,8.78,1.78,md,41,160,0.09185,0.08,nc,nc73924711,2023-08-16T22:41:18.398Z,"14 km N of San Simeon, CA",earthquake,0.2,0.45,0.08,34,reviewed,nc,nc
 2023-08-16T09:50:47.467Z,38.7529,-117.9467,2.6,0.9,ml,8,87.72,0.319,0.1324,nn,nn00864560,2023-08-16T21:57:40.006Z,"Nevada",earthquake,,2,0.32,3,reviewed,nn,nn
 2023-08-16T09:50:27.182Z,52.2904,-169.4335,43.954,4.6,mb,85,177,0.769,0.38,us,us7000knnl,2023-08-16T13:27:57.412Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.83,7.391,0.057,93,reviewed,us,us
-2023-08-16T09:43:12.710Z,38.8216667,-122.7994995,1.84,0.78,md,15,49,0.008439,0.01,nc,nc73924701,2023-08-16T10:15:13.895Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.48,0.13,16,automatic,nc,nc
-2023-08-16T09:42:19.680Z,38.8323326,-122.8188324,1.67,0.76,md,9,93,0.01124,0.01,nc,nc73924696,2023-08-16T11:28:13.335Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.94,0.16,11,automatic,nc,nc
