@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T07:30:51.330Z,37.3166656,-122.0748367,5.53,1.81,md,24,72,0.02204,0.08,nc,nc73939726,2023-09-22T06:49:33.893Z,"4 km W of Cupertino, CA",earthquake,0.2,0.29,0.09,16,automatic,nc,nc
 2023-09-21T07:26:05.530Z,35.7771667,-117.578,4.24,1.28,ml,18,161,0.1449,0.16,ci,ci39670074,2023-09-21T14:41:31.326Z,"16 km W of Searles Valley, CA",earthquake,0.32,0.73,0.084,5,reviewed,ci,ci
 2023-09-21T07:24:26.789Z,34.4735,-97.76116667,18.13,2.84,ml,97,47,0.1403724541,0.38,ok,ok2023snbz,2023-09-21T20:02:15.012Z,"Oklahoma",earthquake,,0.9,0.22,27,reviewed,ok,ok
-2023-09-21T07:14:07.510Z,37.3118324,-122.0693359,6.59,2.91,md,75,66,0.02856,0.14,nc,nc73939716,2023-09-22T06:53:30.871Z,"4 km WSW of Cupertino, CA",earthquake,0.16,0.38,0.09,102,automatic,nc,nc
