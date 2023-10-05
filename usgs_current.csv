@@ -191,6 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T02:59:25.440Z,38.8160019,-122.7958298,2.6,1.08,md,18,37,0.008033,0.02,nc,nc73945601,2023-10-05T05:31:12.193Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.53,0.08,18,automatic,nc,nc
 2023-10-05T02:53:13.417Z,30.0036,139.8308,10,5.7,mww,92,97,3.102,1.11,us,us6000lczf,2023-10-05T04:58:15.968Z,"Izu Islands, Japan region",earthquake,10.22,1.851,0.052,35,reviewed,us,us
 2023-10-05T02:44:21.161Z,58.1874,-155.3837,0,1.4,ml,,,,0.32,ak,ak023crsutms,2023-10-05T02:46:00.352Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-10-05T02:25:49.250Z,52.068,-176.164666666667,2.71,0.55,ml,6,163,,0.26,av,av92074171,2023-10-05T19:52:53.040Z,"38 km ENE of Adak, Alaska",earthquake,0.98,1.28,0.265834004168518,6,reviewed,av,av
 2023-10-05T02:15:14.748Z,29.9804,139.8865,10,5.4,mww,92,31,3.126,0.67,us,us6000lcz5,2023-10-05T04:20:23.296Z,"Izu Islands, Japan region",earthquake,10.01,1.77,0.075,17,reviewed,us,us
 2023-10-05T02:15:12.858Z,60.4025,-152.3513,51.4,2.4,ml,,,,0.87,ak,ak023crsol5z,2023-10-05T02:28:32.298Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-10-05T02:06:32.312Z,29.99,139.9678,10,5.4,mww,110,25,3.119,0.87,us,us6000lcz2,2023-10-05T04:11:42.434Z,"Izu Islands, Japan region",earthquake,9.58,1.02,0.098,10,reviewed,us,us
