@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T05:32:44.430Z,38.7939987,-122.758667,2.16,0.93,md,13,77,0.006667,0.02,nc,nc73948051,2023-10-09T07:52:12.752Z,"2 km N of The Geysers, CA",earthquake,0.3,0.62,0.21,14,automatic,nc,nc
 2023-10-09T05:09:40.742Z,44.6817,146.2867,174.468,5.3,mww,129,60,2.707,0.93,us,us6000le6f,2023-10-09T05:31:25.040Z,"76 km NNE of Otrada, Russia",earthquake,7.43,4.56,0.063,24,reviewed,us,us
 2023-10-09T05:08:12.700Z,35.6785,-117.5491667,8.66,1.07,ml,20,74,0.09636,0.16,ci,ci40579296,2023-10-09T18:13:29.239Z,"13 km ENE of Ridgecrest, CA",earthquake,0.28,0.94,0.067,9,reviewed,ci,ci
-2023-10-09T04:49:48.730Z,38.8251648,-122.8075027,2.25,0.93,md,17,55,0.002675,0.01,nc,nc73948036,2023-10-09T07:21:12.581Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.65,0.23,17,automatic,nc,nc
-2023-10-09T04:49:20.622Z,54.5753,-161.2876,24.9,1.8,ml,,,,0.32,ak,ak023cyg847m,2023-10-09T13:44:36.372Z,"Alaska Peninsula",earthquake,,3.6,,,reviewed,ak,ak
