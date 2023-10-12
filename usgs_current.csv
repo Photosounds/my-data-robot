@@ -164,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T10:42:16.990Z,52.8338333333333,-169.843333333333,4.07,0.48,ml,5,186,,0.25,av,av91118073,2023-10-12T04:49:58.540Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,2.8,3.27,0.347240010547077,5,reviewed,av,av
 2023-10-11T10:39:33.043Z,11.511,-87.1678,42.762,4.2,mb,33,144,1.085,0.62,us,us6000leqt,2023-10-11T10:57:40.040Z,"77 km WSW of Masachapa, Nicaragua",earthquake,7.12,12.263,0.121,19,reviewed,us,us
 2023-10-11T10:36:56.685Z,23.252,121.2992,17.479,5.2,mww,43,89,0.14,0.82,us,us6000leqs,2023-10-11T12:57:37.716Z,"78 km SE of Lugu, Taiwan",earthquake,3.54,3.22,0.098,10,reviewed,us,us
-2023-10-11T10:32:05.013Z,31.658,-104.522,6.0544,2.1,ml(texnet),21,78,0,0.2,tx,tx2023txwf,2023-10-11T16:11:40.348Z,"western Texas",earthquake,2.100481011,1.171943197,0.1,7,reviewed,tx,tx
+2023-10-11T10:32:05.013Z,31.658,-104.522,6.0544,2.1,ml(texnet),21,78,0,0.2,tx,tx2023txwf,2023-10-11T16:11:40.348Z,"59 km SSW of Whites City, New Mexico",earthquake,2.100481011,1.171943197,0.1,7,reviewed,tx,tx
 2023-10-11T10:28:52.095Z,18.0038,-105.9386,10,4.2,mb,12,277,4.752,0.74,us,us6000leqr,2023-10-11T10:52:09.040Z,"184 km SSW of Emiliano Zapata, Mexico",earthquake,13.04,2.022,0.112,22,reviewed,us,us
 2023-10-11T10:16:58.620Z,62.3565,-149.8057,15.9,1.2,ml,,,,0.33,ak,ak023d1uog9y,2023-10-11T10:19:16.113Z,"16 km ENE of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-11T10:12:28.020Z,46.20016666666667,-122.18016666666666,0.87,0.42,ml,10,139,0.003704,0.07,uw,uw61965416,2023-10-11T17:59:38.700Z,"38 km NNE of Amboy, Washington",earthquake,0.27,0.19,0.4222294840138038,8,reviewed,uw,uw
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T08:01:49.180Z,58.2693333333333,-155.060333333333,-2.2,-0.3,ml,7,167,,0.26,av,av91118058,2023-10-12T04:09:06.630Z,"85 km NNW of Karluk, Alaska",earthquake,0.61,3.79,0.300819415968525,7,reviewed,av,av
 2023-10-11T07:47:48.130Z,38.8256683,-122.8099976,2.72,0.76,md,13,75,0.002271,0.02,nc,nc73948811,2023-10-11T10:35:11.790Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.69,0.48,14,automatic,nc,nc
 2023-10-11T07:47:00.190Z,38.8083344,-122.8356705,16.65,1.29,md,6,224,0.0051,0.03,nc,nc73948806,2023-10-11T10:40:12.826Z,"8 km WNW of The Geysers, CA",earthquake,1.95,2.91,0.38,2,automatic,nc,nc
-2023-10-11T07:33:32.487Z,59.0006,-136.9558,0,1.9,ml,,,,1.06,ak,ak023d1szqlg,2023-10-11T07:36:01.095Z,"70 km SW of Covenant Life, Alaska",earthquake,,0.6,,,automatic,ak,ak
