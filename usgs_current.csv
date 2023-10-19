@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-19T20:39:30.843Z,59.5591,-153.1319,94.6,1.8,ml,,,,0.37,ak,ak023df92flo,2023-10-19T20:41:58.904Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-19T20:15:22.489Z,62.4631,-149.3071,5.6,2.2,ml,,,,0.32,ak,ak023df8x9rs,2023-10-19T20:17:02.012Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-19T20:00:24.890Z,61.0377,-148.4177,0.9,1.8,ml,,,,0.58,ak,ak023df8u27t,2023-10-19T20:02:03.587Z,"32 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-19T19:54:43.036Z,39.6165,-119.6405,5.9,1.4,ml,8,95.87,0.218,0.0921,nn,nn00867641,2023-10-19T19:56:43.378Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.7,0.33,5,automatic,nn,nn
@@ -76,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T10:25:01.601Z,63.0763,-151.4647,1.9,1.5,ml,,,,0.71,ak,ak023df3119s,2023-10-19T10:27:30.438Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-19T09:49:35.102Z,39.6216,-119.6446,9.4,1.5,ml,12,72.82,0.186,0.2337,nn,nn00867602,2023-10-19T09:52:00.110Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.46,5,automatic,nn,nn
 2023-10-19T09:24:26.304Z,31.659,-104.342,6.2344,2.4,ml(texnet),19,69,0.1,0.2,tx,tx2023umka,2023-10-19T11:43:56.721Z,"57 km S of Whites City, New Mexico",earthquake,0.8922056259,0.9408117405,0,7,reviewed,tx,tx
+2023-10-19T09:22:28.270Z,53.9471666666667,-166.587333333333,9,0.67,ml,8,157,,0.12,av,av92087841,2023-10-19T20:36:26.930Z,"7 km NNW of Dutch Harbor, Alaska",earthquake,0.48,0.6,0.107761336027731,8,reviewed,av,av
 2023-10-19T09:21:33.543Z,31.663,-104.339,6.4915,2.3,ml(texnet),17,68,0.1,0.2,tx,tx2023umjx,2023-10-19T12:07:35.202Z,"56 km S of Whites City, New Mexico",earthquake,0.9666236562,1.084771529,0.1,7,reviewed,tx,tx
 2023-10-19T09:18:42.581Z,60.0858,-153.1929,131.2,2.1,ml,,,,0.64,ak,ak023df2e6te,2023-10-19T09:21:01.814Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-19T09:17:05.640Z,31.658,-104.412,6.3886,2.4,ml(texnet),16,71,0,0.2,tx,tx2023umju,2023-10-19T12:39:04.593Z,"57 km S of Whites City, New Mexico",earthquake,1.066547083,1.085130548,0.1,6,reviewed,tx,tx
