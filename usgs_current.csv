@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T05:17:38.050Z,19.6001666666667,-66.1413333333333,20.94,3.43,md,13,253,1.285,0.11,pr,pr71430218,2023-10-29T06:10:31.580Z,"Puerto Rico region",earthquake,0.58,12.45,0.0675795086566313,10,reviewed,pr,pr
 2023-10-29T05:04:32.695Z,11.7544,-86.5382,76.024,4.1,mb,41,142,0.484,0.44,us,us7000l7bj,2023-10-29T06:33:33.040Z,"4 km SW of Masachapa, Nicaragua",earthquake,6.97,8.385,0.093,33,reviewed,us,us
 2023-10-29T04:50:33.041Z,34.4804,61.8697,10,4.8,mb,29,97,5.923,0.71,us,us7000l7bg,2023-10-29T07:46:01.253Z,"19 km NE of Zindah Jān, Afghanistan",earthquake,7.52,1.887,0.118,22,reviewed,us,us
-2023-10-29T04:32:08.676Z,-19.415,168.7704,79.858,6,mww,53,67,3.414,0.7,us,us7000l7b6,2023-10-29T21:13:02.586Z,"55 km WNW of Isangel, Vanuatu",earthquake,9.3,7.68,0.069,20,reviewed,us,us
