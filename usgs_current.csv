@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T02:34:37.646Z,61.7246,-150.0488,24.6,1.7,ml,,,,0.51,ak,ak023ec12ijg,2023-11-08T03:08:33.380Z,"2 km SSW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-08T02:34:10.593Z,61.5673,-150.0504,27.3,1.6,ml,,,,0.46,ak,ak023ec12gg3,2023-11-08T02:35:45.262Z,"7 km NW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-08T02:29:56.050Z,38.8318329,-122.8150024,1.48,0.66,md,9,87,0.009263,0.01,nc,nc73957575,2023-11-08T03:07:14.485Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.19,0.1,9,automatic,nc,nc
-2023-11-08T02:27:25.360Z,35.8665009,-120.4164963,5.64,0.74,md,8,146,0.02909,0.04,nc,nc73957565,2023-11-08T02:44:13.350Z,"4 km SSE of Parkfield, CA",earthquake,0.59,0.94,0.65,2,automatic,nc,nc
+2023-11-08T02:27:25.360Z,35.8665009,-120.4164963,5.64,0.74,md,8,146,0.02909,0.04,nc,nc73957565,2023-11-08T04:52:13.562Z,"4 km SSE of Parkfield, CA",earthquake,0.59,0.94,0.65,2,automatic,nc,nc
 2023-11-08T02:24:32.420Z,19.1889991760254,-155.494506835938,34.7000007629395,2.49000001,md,46,71,,0.129999995,hv,hv73641252,2023-11-08T02:30:03.830Z,"2 km SW of Pāhala, Hawaii",earthquake,0.42,0.730000019,1.41999996,30,automatic,hv,hv
 2023-11-08T02:05:03.610Z,33.3068352,-116.3984985,14.38,1.14,ml,38,120,0.2345,0.2,ci,ci39710210,2023-11-08T02:11:04.717Z,"6 km NNW of Borrego Springs, CA",earthquake,0.38,0.84,0.267,6,automatic,ci,ci
 2023-11-08T01:51:06.220Z,19.2513332366943,-155.399993896484,28.1399993896484,2.28,ml,44,148,,0.129999995,hv,hv73641242,2023-11-08T01:56:37.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.790000021,3.32,7,automatic,hv,hv
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T05:10:33.465Z,31.653,-104.129,2.224,2,ml(texnet),23,50,0,0.1,tx,tx2023vuuf,2023-11-07T13:17:45.464Z,"49 km NW of Toyah, Texas",earthquake,0.4031005735,1.011472705,0.1,26,reviewed,tx,tx
 2023-11-07T05:03:35.690Z,38.8494987,-122.8190002,2.68,0.34,md,7,98,0.006172,0.01,nc,nc73957125,2023-11-07T07:03:10.739Z,"9 km WNW of Cobb, CA",earthquake,1.02,2.63,0.2,8,automatic,nc,nc
 2023-11-07T04:56:36.390Z,33.4995,-116.49,12.04,0.66,ml,24,121,0.06723,0.13,ci,ci39709682,2023-11-07T18:50:15.504Z,"18 km ESE of Anza, CA",earthquake,0.23,0.42,0.079,9,reviewed,ci,ci
-2023-11-07T04:53:37.130Z,38.8363342,-122.7904968,1.68,0.69,md,8,59,0.002075,0.01,nc,nc73957120,2023-11-07T06:37:10.592Z,"6 km WNW of Cobb, CA",earthquake,0.43,1.04,0.27,11,automatic,nc,nc
-2023-11-07T04:47:26.430Z,38.8291664,-122.8541641,1.18,0.96,md,10,95,0.002664,0.07,nc,nc73957115,2023-11-07T06:12:10.431Z,"10 km NW of The Geysers, CA",earthquake,0.48,0.56,0.43,12,automatic,nc,nc
