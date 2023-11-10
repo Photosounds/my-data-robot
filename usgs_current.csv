@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T03:18:06.990Z,33.8019981,-116.9235001,10.17,1.11,ml,28,67,0.114,0.17,ci,ci39711042,2023-11-10T03:20:30.233Z,"4 km ENE of San Jacinto, CA",earthquake,0.35,0.82,0.142,7,automatic,ci,ci
 2023-11-10T03:04:08.630Z,33.2713318,-116.7835007,9.88,1.14,ml,40,81,0.0409,0.14,ci,ci39711034,2023-11-10T03:10:23.180Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.22,0.77,0.286,8,automatic,ci,ci
 2023-11-10T02:59:39.760Z,38.8064995,-122.8101654,2.15,1.08,md,16,56,0.0117,0.02,nc,nc73960731,2023-11-10T03:10:10.568Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.56,0.21,18,automatic,nc,nc
 2023-11-10T02:57:07.145Z,31.636,-104.032,5.7717,2.7,ml(texnet),19,76,0,0.2,tx,tx2023waci,2023-11-10T03:11:08.727Z,"41 km W of Mentone, Texas",earthquake,1.230810465,1.359935189,0.1,11,reviewed,tx,tx
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T03:30:56.950Z,37.0475,-121.1673333,4.65,1.19,md,34,75,0.05094,0.13,nc,nc73960281,2023-11-09T18:16:12.550Z,"28 km SSW of Gustine, CA",earthquake,0.18,0.97,0.182,23,reviewed,nc,nc
 2023-11-09T03:30:49.254Z,31.638,-103.999,4.9107,1.8,ml(texnet),20,47,0,0.2,tx,tx2023vyib,2023-11-09T03:59:30.637Z,"western Texas",earthquake,0,1.131048263,0.2,16,automatic,tx,tx
 2023-11-09T03:25:11.429Z,31.619,-103.975,5.3082,1.6,ml(texnet),15,79,0,0.4,tx,tx2023vyhw,2023-11-09T03:52:55.529Z,"western Texas",earthquake,0,2.092918914,0.2,13,automatic,tx,tx
-2023-11-09T03:20:55.395Z,31.642,-104,4.9693,1.7,ml(texnet),16,45,0,0.4,tx,tx2023vyhs,2023-11-09T17:12:25.404Z,"western Texas",earthquake,0,1.184711294,0.2,12,automatic,tx,tx
