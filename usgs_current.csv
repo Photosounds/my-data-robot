@@ -253,4 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-14T03:36:13.590Z,58.2463333333333,-155.175333333333,5.21,0.86,ml,13,69,,0.19,av,av92118081,2023-11-14T19:09:38.250Z,"Alaska Peninsula",earthquake,0.32,0.66,0.209389422990782,13,reviewed,av,av
 2023-11-14T03:35:43.744Z,-26.5977,-178.4824,336.926,4.3,mb,21,121,2.7,0.89,us,us7000lau5,2023-11-15T01:19:14.040Z,"south of the Fiji Islands",earthquake,14.33,9.16,0.142,14,reviewed,us,us
 2023-11-14T03:35:19.240Z,47.186,-121.94433333333333,16.69,0.96,ml,12,121,0.0304,0.18,uw,uw61972171,2023-11-14T17:09:37.860Z,"4 km ESE of Enumclaw, Washington",earthquake,0.54,0.88,0.17400490779592925,8,reviewed,uw,uw
-2023-11-14T03:32:50.970Z,35.7436667,-117.576,12.08,0.85,ml,22,123,0.1467,0.15,ci,ci39712850,2023-11-14T15:07:46.824Z,"16 km W of Searles Valley, CA",earthquake,0.3,0.73,0.148,5,reviewed,ci,ci
