@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-24T02:42:46.846Z,61.0427,-143.5116,13.4,1.4,ml,,,,0.3,ak,ak023f2hpsvg,2023-11-24T02:44:21.174Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-24T02:18:31.620Z,38.8233337,-122.8233337,0.82,0.76,md,8,91,0.009139,0.01,nc,nc73966616,2023-11-24T02:28:09.779Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.72,0.25,9,automatic,nc,nc
 2023-11-24T02:12:09.916Z,36.4343,-116.9607,9.4,1.5,ml,25,182.83,0.252,0.1969,nn,nn00869234,2023-11-24T02:14:20.747Z,"9 km W of Furnace Creek, California",earthquake,,1.2,0.12,19,automatic,nn,nn
 2023-11-24T02:08:36.476Z,35.12772369,-97.55445099,3.304350853,1.91,ml,22,45.80989647,0.06075396389,0.5581853687,ok,ok2023wzpt,2023-11-24T02:12:52.184Z,"Oklahoma",earthquake,2.255697416,1.769929984,0.31,12,automatic,ok,ok
