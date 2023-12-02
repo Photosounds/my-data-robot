@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-02T02:44:55.450Z,38.8463326,-122.8195038,1.4,0.71,md,14,79,0.008841,0.01,nc,nc73970621,2023-12-02T02:46:33.417Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.54,0.1,13,automatic,nc,nc
+2023-12-02T02:52:33.018Z,63.4498,-149.8087,44.4,1.7,ml,,,,0.5,ak,ak023ffq2ox1,2023-12-02T02:54:01.007Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-12-02T02:48:27.840Z,35.6393333,-117.56,7.31,0.98,ml,21,80,0.08354,0.13,ci,ci39721306,2023-12-02T02:54:21.581Z,"11 km E of Ridgecrest, CA",earthquake,0.24,0.44,0.053,6,automatic,ci,ci
+2023-12-02T02:44:55.450Z,38.8463326,-122.8195038,1.4,0.71,md,14,79,0.008841,0.01,nc,nc73970621,2023-12-02T02:56:10.608Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.54,0.1,13,automatic,nc,nc
 2023-12-02T02:44:54.780Z,38.1824989,-122.5493317,4.52,1.18,md,8,165,0.335,0.22,nc,nc73970626,2023-12-02T02:46:32.674Z,"8 km NNW of Black Point-Green Point, CA",earthquake,2.93,19.7,,1,automatic,nc,nc
-2023-12-02T02:43:48.070Z,38.8153343,-122.7826691,3.61,0.87,md,5,148,0.002588,0.02,nc,nc73970616,2023-12-02T02:45:22.372Z,"5 km NNW of The Geysers, CA",earthquake,3.19,6.71,0.37,9,automatic,nc,nc
+2023-12-02T02:43:48.070Z,38.8153343,-122.7826691,3.61,0.87,md,5,148,0.002588,0.02,nc,nc73970616,2023-12-02T02:53:11.591Z,"5 km NNW of The Geysers, CA",earthquake,3.19,6.71,0.37,9,automatic,nc,nc
 2023-12-02T02:27:30.390Z,32.7683333,-115.8576667,2.35,2.39,ml,55,34,0.1322,0.24,ci,ci39721298,2023-12-02T02:38:18.570Z,"13 km ENE of Ocotillo, CA",earthquake,0.19,0.39,0.216,26,automatic,ci,ci
+2023-12-02T02:23:18.239Z,-10.7092,-70.7442,10,4.9,mb,41,72,6.1,0.89,us,us7000lf9t,2023-12-02T02:49:13.040Z,"Peru-Brazil border region",earthquake,9.95,1.889,0.062,81,reviewed,us,us
 2023-12-02T02:01:46.970Z,34.1425,-118.3521667,10.61,1.87,ml,25,90,0.03441,0.17,ci,ci39721290,2023-12-02T02:36:04.160Z,"0 km NNE of Universal City, CA",earthquake,0.35,0.59,0.308,6,automatic,ci,ci
 2023-12-02T01:57:51.637Z,59.5455,-152.3615,72.8,2.2,ml,,,,0.39,ak,ak023ffpidbv,2023-12-02T02:01:00.549Z,"32 km NW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-02T01:49:31.850Z,18.8995,-67.3438333333333,30.74,3.15,md,12,228,0.5281,0.12,pr,pr71432838,2023-12-02T02:40:48.850Z,"Puerto Rico region",earthquake,1.05,6.75,0.182767831301316,7,reviewed,pr,pr
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-02T01:27:47.499Z,17.4102,-68.8597,10,3.6,ml,15,233,1.189,0.83,us,us7000lf9g,2023-12-02T01:34:49.040Z,"110 km SSW of Boca de Yuma, Dominican Republic",earthquake,7.07,2.015,0.06,36,reviewed,us,us
 2023-12-02T01:17:33.903Z,60.3673,-143.7052,1.1,1.8,ml,,,,0.9,ak,ak023ffp9rbi,2023-12-02T01:20:28.754Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-02T01:05:45.060Z,19.3933334350586,-155.276000976562,0.540000021457672,1.74,ml,16,52,,0.129999995,hv,hv73668742,2023-12-02T01:11:17.050Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.239999995,0.18,5,automatic,hv,hv
-2023-12-02T01:03:48.714Z,60.5819,-150.753,25.5,2.5,ml,,,,0.95,ak,ak023ffp6sgi,2023-12-02T01:15:31.301Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-02T01:03:48.714Z,60.5819,-150.753,25.5,2.5,ml,,,,0.95,ak,ak023ffp6sgi,2023-12-02T02:55:06.040Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-02T00:49:29.440Z,19.4111671447754,-155.47917175293,5.48999977111816,1.90999997,md,31,38,,0.140000001,hv,hv73668737,2023-12-02T00:52:27.570Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.769999981,0.560000002,16,automatic,hv,hv
 2023-12-02T00:35:38.349Z,39.8063,140.6893,113.781,4.4,mb,41,128,1.023,0.55,us,us7000lf9b,2023-12-02T01:03:05.040Z,"eastern Honshu, Japan",earthquake,7.34,5.029,0.114,22,reviewed,us,us
 2023-12-02T00:14:35.980Z,19.3371658325195,-155.106994628906,-0.379999995231628,1.86,ml,38,146,,0.310000002,hv,hv73668722,2023-12-02T00:20:06.750Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.54,0.239999995,3.96,5,automatic,hv,hv
