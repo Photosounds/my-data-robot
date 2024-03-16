@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-16T07:35:57.010Z,37.472168,-118.8300018,1.04,1.49,md,10,148,0.1177,0.03,nc,nc74018201,2024-03-16T07:37:30.146Z,"17 km SW of Toms Place, CA",earthquake,0.93,3.04,0.06,8,automatic,nc,nc
 2024-03-16T07:24:13.770Z,38.8359985,-122.8190002,1.89,1.09,md,17,68,0.01313,0.02,nc,nc74018196,2024-03-16T07:25:50.063Z,"8 km W of Cobb, CA",earthquake,0.24,0.66,0.28,18,automatic,nc,nc
 2024-03-16T07:16:25.178Z,61.2541,-141.5039,4.6,1.2,ml,,,,0.38,ak,ak0243ht3w5x,2024-03-16T07:18:27.209Z,"78 km ESE of McCarthy, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-03-16T07:09:30.353Z,14.0523,41.2038,9.983,4.5,mb,50,142,2.975,0.5,us,us6000mj8r,2024-03-16T07:28:46.040Z,"54 km WNW of Edd, Eritrea",earthquake,13.89,5.595,0.084,42,reviewed,us,us
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T06:59:22.130Z,19.1674995422363,-155.481674194336,32.3600006103516,2,md,30,101,0.02206,0.109999999,hv,hv74138362,2024-03-16T07:01:47.500Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,0.620000005,0.189999998,4,automatic,hv,hv
 2024-03-16T06:57:33.360Z,36.5476685,-121.1429977,6.62,1.24,md,13,99,0.04172,0.26,nc,nc74018191,2024-03-16T06:59:10.743Z,"2 km N of Pinnacles, CA",earthquake,0.79,3.64,0.25,9,automatic,nc,nc
 2024-03-16T06:56:43.050Z,38.8393326,-122.8761673,2.26,0.72,md,10,130,0.005797,0.02,nc,nc74018186,2024-03-16T06:58:15.741Z,"12 km WNW of The Geysers, CA",earthquake,0.77,1.08,0.39,12,automatic,nc,nc
-2024-03-16T06:37:39.400Z,19.1725,-155.482833333333,32.21,3.24,ml,28,86,0.02593,0.08,hv,hv74138337,2024-03-16T07:24:04.585Z,"3 km S of Pāhala, Hawaii",earthquake,0.8,1.06,0.20399169544373,18,reviewed,hv,hv
+2024-03-16T06:37:39.400Z,19.1725,-155.482833333333,32.21,3.24,ml,28,86,0.02593,0.08,hv,hv74138337,2024-03-16T07:29:07.167Z,"3 km S of Pāhala, Hawaii",earthquake,0.8,1.06,0.20399169544373,18,reviewed,hv,hv
 2024-03-16T06:27:31.140Z,38.7605019,-122.7163315,1.82,1.29,md,9,116,0.01538,0.03,nc,nc74018181,2024-03-16T06:29:05.501Z,"3 km SW of Anderson Springs, CA",earthquake,0.33,0.51,0.15,11,automatic,nc,nc
 2024-03-16T06:27:25.230Z,19.1744995117188,-155.490325927734,31.3199996948242,2.61,ml,57,89,0.03274,0.119999997,hv,hv74138322,2024-03-16T06:54:00.038Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.45,0.589999974,0.3,20,automatic,hv,hv
 2024-03-16T06:26:43.080Z,33.7675,-116.0978333,5.76,0.9,ml,42,44,0.1071,0.16,ci,ci40687920,2024-03-16T06:33:16.282Z,"12 km NE of Coachella, CA",earthquake,0.17,0.79,0.219,22,automatic,ci,ci
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-15T07:47:03.980Z,44.3401666666667,-114.821833333333,7.88,1.89,ml,13,51,0.2346,0.19,mb,mb90043143,2024-03-15T14:30:37.880Z,"16 km NE of Stanley, Idaho",earthquake,0.45,1.08,0.24004357192102,21,reviewed,mb,mb
 2024-03-15T07:43:56.270Z,34.0293333,-117.1323333,8.79,1.09,ml,43,60,0.08199,0.17,ci,ci40687496,2024-03-15T18:39:06.800Z,"4 km S of Mentone, CA",earthquake,0.17,0.44,0.107,20,reviewed,ci,ci
 2024-03-15T07:43:20.992Z,57.1217,-155.268,7.1,2,ml,,,,0.41,ak,ak0243g5qboj,2024-03-15T07:45:17.865Z,"69 km WNW of Akhiok, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-03-15T07:35:36.633Z,59.0625,-152.1324,76.4,1.9,ml,,,,0.2,ak,ak0243g5on5r,2024-03-15T07:37:16.306Z,"34 km SSW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
