@@ -225,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-11T00:20:37.352Z,31.707,-104.156,8.5095,1.6,ml,34,49,0.1,0.2,tx,tx2024nmvg,2024-07-11T14:00:21.651Z,"52 km W of Mentone, Texas",earthquake,0.5623946242666393,1.084109842130773,0.3,26,reviewed,tx,tx
 2024-07-11T00:16:15.570Z,46.97516666666667,-122.213,-0.36,1.6300000000000001,ml,13,91,0.01234,0.1,uw,uw62015577,2024-07-11T18:11:43.050Z,"1 km SE of Kapowsin, Washington",explosion,0.51,31.61,0.10947583273179196,5,reviewed,uw,uw
 2024-07-10T23:56:15.780Z,33.1355,-116.6385,3.66,0.8,ml,30,68,0.0639,0.22,ci,ci40655847,2024-07-11T20:03:46.046Z,"7 km NNW of Julian, CA",earthquake,0.27,0.6,0.16,12,reviewed,ci,ci
-2024-07-10T23:53:51.470Z,33.4101667,-116.3478333,12.35,1.15,ml,60,33,0.05741,0.18,ci,ci40655831,2024-07-11T13:59:07.477Z,"17 km N of Borrego Springs, CA",earthquake,0.16,0.38,0.161,27,reviewed,ci,ci
-2024-07-10T23:52:00.425Z,-60.2889,-26.5661,10,5,mb,50,68,14.797,0.55,us,us7000myf0,2024-07-11T00:07:52.040Z,"South Sandwich Islands region",earthquake,12.67,1.913,0.077,54,reviewed,us,us
