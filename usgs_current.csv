@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-27T06:36:03.273Z,62.1106,-151.5338,35,2,ml,,,,1.22,ak,ak024gmsbyfb,2024-12-27T06:37:46.816Z,"15 km NNW of Skwentna, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2024-12-27T06:18:58.605Z,61.324,-152.2551,7.2,0.4,ml,,,,0.34,ak,ak024gms87t0,2024-12-27T06:21:19.160Z,"66 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-27T06:16:11.740Z,35.881,-117.6921667,8.43,0.86,ml,21,52,0.07488,0.23,ci,ci40828751,2024-12-27T06:19:39.232Z,"20 km ESE of Little Lake, CA",earthquake,0.3,0.87,0.128,15,automatic,ci,ci
 2024-12-27T06:09:42.013Z,61.011,-145.7873,41.4,1.6,ml,,,,0.85,ak,ak024gms692t,2024-12-27T06:11:53.357Z,"33 km ESE of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T07:17:32.756Z,31.619,-104.501,7.6892,1.6,ml,30,70,0,0.2,tx,tx2024zihn,2024-12-26T12:55:57.827Z,"62 km S of Whites City, New Mexico",earthquake,0.78152098665253,0.69069716878299,0.1,24,reviewed,tx,tx
 2024-12-26T07:08:31.164Z,64.7059,-151.2956,11.8,1.4,ml,,,,0.9,ak,ak024gl583n1,2024-12-26T16:23:04.097Z,"45 km SW of Manley Hot Springs, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-12-26T07:02:18.950Z,53.436333333333,-168.05416666667,3.2,0.36,ml,6,186,0.02116,0.21,av,av93426366,2024-12-27T00:04:09.990Z,"77 km NE of Nikolski, Alaska",earthquake,0.73,1.09,0.49116924022425,6,reviewed,av,av
-2024-12-26T06:31:17.745Z,37.3631,-117.1848,0,1.1,ml,20,126.4,0.087,0.1665,nn,nn00890582,2024-12-27T02:05:04.424Z,"38 km S of Goldfield, Nevada",earthquake,,0,0.36,7,reviewed,nn,nn
