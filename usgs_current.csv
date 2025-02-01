@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T12:10:55.196Z,62.0163,-148.268,31.4,1.7,ml,,,,0.67,ak,ak0251fgv7zj,2025-01-31T12:12:49.987Z,"26 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-31T12:04:10.653Z,-10.4918,163.3161,10,5.4,mww,67,55,3.479,1.17,us,us7000paai,2025-01-31T16:08:36.917Z,"152 km E of Kirakira, Solomon Islands",earthquake,9.35,1.811,0.066,22,reviewed,us,us
 2025-01-31T12:03:40.410Z,38.814334869385,-122.83550262451,3,0.4,md,8,127,0.008776,0.02,nc,nc75126316,2025-01-31T12:05:19.789Z,"8 km NW of The Geysers, CA",earthquake,1.05,2.25999999,0.14,10,automatic,nc,nc
-2025-01-31T11:48:58.120Z,36.759166717529,-121.25350189209,9.5600004196167,1.73,md,28,49,0.05403,0.17,nc,nc75126311,2025-01-31T11:50:33.789Z,"7 km SE of Tres Pinos, CA",earthquake,0.33,0.600000024,0.19,22,automatic,nc,nc
