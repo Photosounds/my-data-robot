@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T13:31:38.860Z,19.397333145142,-155.4211730957,6.6199998855591,1.95,ml,51,36,0.04231,0.209999993,hv,hv74615552,2025-02-14T13:34:42.490Z,"20 km WSW of Volcano, Hawaii",earthquake,0.3,0.720000029,0.32,3,automatic,hv,hv
 2025-02-14T13:29:39.402Z,28.747,-98.858,7.8369,2.6,ml,22,73,0.1,0.3,tx,tx2025ddkw,2025-02-14T15:40:19.957Z,"19 km SW of Charlotte, Texas",earthquake,1.5956506950034,2.2964178942055,0.1,12,reviewed,tx,tx
 2025-02-14T13:22:45.226Z,11.432,125.6948,10,4.5,mb,33,111,9.566,1.12,us,us7000pdln,2025-02-14T15:07:29.040Z,"14 km NE of Hernani, Philippines",earthquake,12.18,1.899,0.102,28,reviewed,us,us
-2025-02-14T13:18:47.330Z,36.060501098633,-120.64766693115,2.420000076294,0.53,md,8,178,0.04253,0.09,nc,nc75133272,2025-02-14T13:20:22.486Z,"24 km E of San Ardo, CA",earthquake,0.94,2.42000008,0.11,3,automatic,nc,nc
+2025-02-14T13:18:47.040Z,36.081833333333,-120.63266666667,6.18,0.52,md,13,158,0.03229,0.04,nc,nc75133272,2025-02-14T20:22:14.205Z,"25 km E of San Ardo, CA",earthquake,0.6,0.71,0.142,7,reviewed,nc,nc
 2025-02-14T12:50:04.033Z,11.6079,125.829,10,5.3,mww,87,74,4.516,1.2,us,us7000pdlg,2025-02-14T13:25:20.582Z,"37 km NE of Llorente, Philippines",earthquake,8.95,1.845,0.071,19,reviewed,us,us
 2025-02-14T12:49:15.046Z,57.7478,-153.9032,35.7,2.1,ml,,,,0.5,ak,ak02522mmcq8,2025-02-14T12:52:40.731Z,"23 km N of Larsen Bay, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-02-14T12:38:58.493Z,28.897,-98.195,6.5674,2.4,ml,26,74,0.1,0.2,tx,tx2025ddje,2025-02-14T16:10:57.348Z,"19 km WSW of Falls City, Texas",earthquake,1.2169708561542,2.3329855611635,0.1,14,reviewed,tx,tx
@@ -195,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T20:44:56.163Z,45.5356,26.346,120.817,4.3,mb,54,30,0.286,0.85,us,us7000pdhp,2025-02-13T21:34:52.633Z,"8 km NW of Gura Teghii, Romania",earthquake,5.97,3.029,0.101,28,reviewed,us,us
 2025-02-13T20:44:50.738Z,60.9651,-151.4303,61,1.4,ml,,,,0.26,ak,ak025213th8x,2025-02-13T20:46:24.923Z,"19 km SW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-13T20:39:23.250Z,48.069166666667,-115.14,5.1,0.92,ml,6,233,0.3222,0.11,mb,mb90072568,2025-02-14T19:00:24.420Z,"1 km S of Happys Inn, Montana",earthquake,1.48,9.07,0.11331450993834,4,reviewed,mb,mb
-2025-02-13T20:30:39.190Z,38.735832214355,-122.82466888428,29.760000228882,1.25,md,6,158,0.05507,0.05,nc,nc75132952,2025-02-13T20:32:13.905Z,"8 km WSW of The Geysers, CA",earthquake,2.91,3.96000004,0.17,5,automatic,nc,nc
-2025-02-13T20:25:31.377Z,62.7085,-151.5932,112.8,1.2,ml,,,,1.01,ak,ak025213pd5d,2025-02-13T20:27:35.391Z,"48 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-13T20:22:35.210Z,37.637832641602,-122.05899810791,-0.20999999344349,1.87,md,13,77,0.0807,0.1,nc,nc75132947,2025-02-14T07:02:44.486Z,"2 km ESE of Hayward, CA",earthquake,0.29,2.1500001,0.22,13,automatic,nc,nc
