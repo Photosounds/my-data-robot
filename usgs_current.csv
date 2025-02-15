@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-15T05:26:32.418Z,31.671,-104.186,6.0999,2.6,ml,18,119,0.1,0.2,tx,tx2025deql,2025-02-15T19:34:06.721Z,"54 km NW of Toyah, Texas",earthquake,0.92498277197411,1.5237135676388,0.3,7,reviewed,tx,tx
 2025-02-15T05:25:28.890Z,31.671,-104.191,6.0999,3.8,ml,32,61,0.1,0.1,tx,tx2025deqk,2025-02-15T18:36:02.517Z,"54 km NW of Toyah, Texas",earthquake,0.61131278610982,0.75076145755222,0.2,16,reviewed,tx,tx
 2025-02-15T05:24:36.740Z,59.9349,-153.3408,153.7,2,ml,,,,0.33,ak,ak025245ucts,2025-02-15T05:26:28.162Z,"45 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-15T05:23:21.429Z,31.661,-104.18,6.0999,5,ml,18,61,0.1,0.1,tx,tx2025deqh,2025-02-15T21:25:53.689Z,"53 km NW of Toyah, Texas",earthquake,0.63410533157452,1.0110250127169,0.1,10,reviewed,tx,tx
+2025-02-15T05:23:21.429Z,31.661,-104.18,6.0999,5,ml,18,61,0.1,0.1,tx,tx2025deqh,2025-02-15T21:39:04.353Z,"53 km NW of Toyah, Texas",earthquake,0.63410533157452,1.0110250127169,0.1,10,reviewed,tx,tx
 2025-02-15T05:13:35.064Z,61.6488,-148.0393,15.2,1.1,ml,,,,0.21,ak,ak025245rzr6,2025-02-15T05:15:16.398Z,"27 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-15T05:11:24.750Z,38.8375,-122.7985,2.79,0.42,md,11,70,0.006434,0.02,nc,nc75133737,2025-02-15T13:04:45.002Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.4,0.088,10,reviewed,nc,nc
 2025-02-15T05:11:23.550Z,36.254165649414,-120.4931640625,5.6100001335144,1.53,md,8,176,0.1282,0.15,nc,nc75133742,2025-02-15T05:12:59.309Z,"17 km NNW of Coalinga, CA",earthquake,1.16,2.33999991,0.21,3,automatic,nc,nc
@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T22:03:47.430Z,38.74666595459,-122.71199798584,1.3700000047684,1.87,md,22,86,0.01798,0.05,nc,nc75133542,2025-02-14T22:05:22.972Z,"4 km SW of Anderson Springs, CA",earthquake,0.28,0.370000005,0.06,23,automatic,nc,nc
 2025-02-14T22:03:25.961Z,36.653,-116.2669,5.6,-0.2,ml,9,165.56,0.058,0.0751,nn,nn00893524,2025-02-15T15:07:00.860Z,"52 km ESE of Beatty, Nevada",earthquake,,3.5,0,1,reviewed,nn,nn
 2025-02-14T22:02:44.370Z,38.824333190918,-122.85099792481,2.210000038147,0.21,md,8,100,0.005599,0.01,nc,nc75133537,2025-02-14T22:04:22.765Z,"10 km NW of The Geysers, CA",earthquake,0.45,1.09000003,0.08,7,automatic,nc,nc
-2025-02-14T21:47:00.855Z,63.3338,-147.8333,36.6,1.5,ml,,,,1.3,ak,ak02522rysn9,2025-02-14T21:48:42.315Z,"56 km E of Cantwell, Alaska",earthquake,,1.9,,,automatic,ak,ak
