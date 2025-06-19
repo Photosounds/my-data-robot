@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-19T15:51:12.370Z,38.905666351318,-122.98366546631,5.5599999427795,2.01,md,43,72,0.06723,0.08,nc,nc75197756,2025-06-19T15:54:22.790Z,"12 km NNE of Cloverdale, CA",earthquake,0.24,0.670000017,0.16,41,automatic,nc,nc
+2025-06-19T16:05:46.100Z,38.828666687012,-122.82150268555,1.2400000095367,0.81,md,9,161,0.01193,0.02,nc,nc75197761,2025-06-19T16:07:22.035Z,"8 km NNW of The Geysers, CA",earthquake,0.39,1.10000002,0.26,13,automatic,nc,nc
+2025-06-19T15:56:10.331Z,62.0284,-151.3292,72.3,2.3,ml,,,,0.49,ak,ak0257temiwf,2025-06-19T15:57:49.779Z,"5 km NE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-06-19T15:51:12.370Z,38.905666351318,-122.98366546631,5.5599999427795,2.01,md,43,72,0.06723,0.08,nc,nc75197756,2025-06-19T16:07:19.380Z,"12 km NNE of Cloverdale, CA",earthquake,0.24,0.670000017,0.16,41,automatic,nc,nc
 2025-06-19T15:31:11.700Z,60.4721,-152.4442,109.9,1.2,ml,,,,0.36,ak,ak0257teh64i,2025-06-19T15:33:14.126Z,"63 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-19T15:30:44.810Z,33.6795,-116.7156667,15.49,0.48,ml,21,88,0.03465,0.13,ci,ci40998775,2025-06-19T15:34:18.154Z,"7 km S of Idyllwild, CA",earthquake,0.3,0.43,0.039,11,automatic,ci,ci
 2025-06-19T15:18:11.080Z,38.785831451416,-122.74800109863,2.0599999427795,0.78,md,7,119,0.009186,0.02,nc,nc75197746,2025-06-19T15:47:18.215Z,"1 km NE of The Geysers, CA",earthquake,0.46,0.910000026,0.04,6,automatic,nc,nc
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T14:29:25.250Z,38.827167510986,-122.87783050537,2.9000000953674,0.81,md,13,78,0.01188,0.02,nc,nc75197711,2025-06-19T14:47:21.749Z,"12 km NW of The Geysers, CA",earthquake,0.41,0.589999974,0.21,14,automatic,nc,nc
 2025-06-19T14:21:58.990Z,35.7071667,-117.5641667,1.54,0.78,ml,22,65,0.1218,0.15,ci,ci40998687,2025-06-19T14:25:21.689Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.4,0.196,13,automatic,ci,ci
 2025-06-19T14:10:41.906Z,61.3334,-151.8224,96.2,2.3,ml,,,,0.59,ak,ak0257tdrasy,2025-06-19T14:12:39.657Z,"45 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-19T14:07:04.481Z,31.644,-104.112,3.6485,1.5,ml,29,51,0,0.4,tx,tx2025lzhupj,2025-06-19T14:10:01.912Z,"47 km NW of Toyah, Texas",earthquake,0,0.98054832220078,0.2,22,automatic,tx,tx
+2025-06-19T14:07:04.090Z,31.648,-104.112,1.8829,1.5,ml,27,51,0,0.1,tx,tx2025lzhupj,2025-06-19T15:56:57.815Z,"47 km NW of Toyah, Texas",earthquake,0.34366308556459,0.55191998179668,0.1,16,reviewed,tx,tx
 2025-06-19T14:01:57.380Z,19.417667388916,-155.50216674805,7.1599998474121,2.07,ml,56,31,0.03902,0.239999995,hv,hv74702342,2025-06-19T14:05:43.370Z,"23 km N of Pāhala, Hawaii",earthquake,0.29,0.50999999,0.14,11,automatic,hv,hv
 2025-06-19T13:59:10.445Z,59.7789,-152.6672,82.8,1.6,ml,,,,0.27,ak,ak0257tdgav8,2025-06-19T14:01:17.800Z,"46 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-19T13:58:01.720Z,33.2871667,-116.2736667,3.41,1.28,ml,63,23,0.08081,0.21,ci,ci40998679,2025-06-19T14:08:45.990Z,"10 km ENE of Borrego Springs, CA",earthquake,0.16,0.29,0.175,26,automatic,ci,ci
@@ -100,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T07:19:38.284Z,32.129,-102.211,9.2529,2,ml,34,86,0,0.1,tx,tx2025lyugye,2025-06-19T08:37:27.995Z,"19 km NW of Midland, Texas",earthquake,0.28126176862404,1.2713875217726,0.2,18,reviewed,tx,tx
 2025-06-19T07:15:02.090Z,33.9483333,-117.0791667,15.23,1.87,ml,110,17,0.07782,0.18,ci,ci40998503,2025-06-19T07:26:06.940Z,"5 km SSW of Calimesa, CA",earthquake,0.11,0.2,0.181,25,automatic,ci,ci
 2025-06-19T07:08:03.700Z,34.116,-116.866,2.98,0.45,ml,20,89,0.06216,0.14,ci,ci40998495,2025-06-19T13:10:29.915Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.24,0.51,0.077,7,reviewed,ci,ci
+2025-06-19T06:59:29.090Z,48.398666666667,-122.4065,11.49,1.05,ml,18,56,0.02902,0.23,uw,uw62122902,2025-06-19T16:20:30.070Z,"5 km WSW of Mount Vernon, Washington",earthquake,0.68,0.81,0.10860813214309,8,reviewed,uw,uw
 2025-06-19T06:54:01.161Z,38.0541,-118.6871,9.6,1.7,ml,15,80.32,0.244,0.1715,nn,nn00899138,2025-06-19T13:22:25.897Z,"31 km NW of Benton, California",earthquake,,1.5,0.31,10,reviewed,nn,nn
 2025-06-19T06:46:28.260Z,34.2081667,-117.0201667,11.51,1,ml,61,44,0.05007,0.16,ci,ci40998487,2025-06-19T06:49:57.048Z,"8 km E of Running Springs, CA",earthquake,0.14,0.3,0.192,27,automatic,ci,ci
 2025-06-19T06:45:56.970Z,33.6666667,-116.7695,11.29,0.6,ml,36,60,0.06741,0.16,ci,ci40998479,2025-06-19T06:49:25.013Z,"9 km SSW of Idyllwild, CA",earthquake,0.17,0.4,0.18,20,automatic,ci,ci
