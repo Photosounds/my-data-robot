@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-04T22:45:32.410Z,33.6368332,-116.7409973,16.61,1.42,ml,30,81,0.06454,0.15,ci,ci41253072,2025-08-04T22:47:35.960Z,"11 km NW of Anza, CA",earthquake,0.31,0.5,0.283,15,automatic,ci,ci
-2025-08-04T22:45:03.710Z,33.2861671,-116.2491684,4.87,1.42,ml,12,132,0.2196,0.36,ci,ci41253064,2025-08-04T22:47:27.414Z,"12 km ENE of Borrego Springs, CA",earthquake,1.18,14.14,0.493,9,automatic,ci,ci
+2025-08-04T22:45:32.470Z,33.626,-116.7441667,16.15,1.29,ml,53,25,0.06071,0.19,ci,ci41253072,2025-08-04T22:49:46.327Z,"10 km NW of Anza, CA",earthquake,0.17,0.34,0.261,28,automatic,ci,ci
+2025-08-04T22:45:03.470Z,33.2861667,-116.2555,8.82,1.69,ml,9,130,0.2226,0.25,ci,ci41253064,2025-08-04T22:48:46.463Z,"12 km ENE of Borrego Springs, CA",earthquake,1.98,15.62,0.409,24,automatic,ci,ci
 2025-08-04T22:24:09.330Z,37.383834838867,-121.7363357544,6.8899998664856,1.51,md,18,117,0.08371,0.03,nc,nc75219217,2025-08-04T22:33:27.959Z,"8 km E of Alum Rock, CA",earthquake,0.27,0.970000029,0.17,14,automatic,nc,nc
 2025-08-04T22:06:29.030Z,34.993,-118.1913333,0.15,1.79,ml,23,53,0.1234,0.23,ci,ci41253008,2025-08-04T22:14:00.913Z,"7 km SSW of Mojave, CA",earthquake,0.35,0.81,0.159,30,automatic,ci,ci
 2025-08-04T22:06:00.940Z,37.54016494751,-118.82683563232,3.4400000572205,1.48,md,14,136,0.04981,0.03,nc,nc75219212,2025-08-04T22:07:35.723Z,"13 km W of Toms Place, CA",earthquake,0.58,0.75999999,0.16,13,automatic,nc,nc
