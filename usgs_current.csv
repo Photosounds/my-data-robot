@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-20T10:32:33.200Z,33.2406654,-116.730835,11.08,1.43,ml,15,68,0.02387,0.16,ci,ci40403738,2025-08-20T10:34:35.438Z,"3 km E of Lake Henshaw, CA",earthquake,0.44,1.02,0.444,15,automatic,ci,ci
+2025-08-20T10:32:33.270Z,33.2353333,-116.7321667,10.54,0.48,ml,27,34,0.0223,0.16,ci,ci40403738,2025-08-20T10:36:50.508Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.24,0.37,0.136,8,automatic,ci,ci
 2025-08-20T10:21:49.557Z,59.9711,-152.2067,195.5,2,ml,,,,0.56,ak,ak025anurgh7,2025-08-20T10:23:54.283Z,"26 km W of Happy Valley, Alaska",earthquake,,10.2,,,automatic,ak,ak
 2025-08-20T10:17:55.290Z,33.492,-116.9045,11.38,0.48,ml,27,29,0.01169,0.16,ci,ci40403730,2025-08-20T10:21:41.936Z,"7 km NW of Aguanga, CA",earthquake,0.2,0.56,0.113,13,automatic,ci,ci
 2025-08-20T10:15:45.940Z,33.4746667,-116.5525,7.27,0.9,ml,50,26,0.04609,0.19,ci,ci40403722,2025-08-20T10:19:14.924Z,"14 km SE of Anza, CA",earthquake,0.17,0.52,0.175,27,automatic,ci,ci
@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T12:01:51.444Z,58.1521,-156.5226,23.3,0.8,ml,,,,0.36,ak,ak025am8ap0o,2025-08-19T12:03:32.875Z,"50 km E of Egegik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-19T11:50:30.000Z,37.4835,-113.577,10.54,1.09,ml,8,163,0.1831,0.1,uu,uu80114046,2025-08-19T13:26:56.940Z,"8 km NNE of Central, Utah",earthquake,0.51,0.92,0.26379423391132,5,reviewed,uu,uu
 2025-08-19T10:48:38.307Z,61.3181,-152.233,7.1,0.2,ml,,,,0.29,ak,ak025am7dugx,2025-08-19T17:05:31.170Z,"64 km WNW of Beluga, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2025-08-19T10:36:10.370Z,33.3651667,-116.688,12.3,1.86,ml,22,61,0.1067,0.12,ci,ci40402538,2025-08-19T13:25:13.357Z,"10 km NNW of Warner Springs, CA",earthquake,0.21,0.5,0.177,16,reviewed,ci,ci
