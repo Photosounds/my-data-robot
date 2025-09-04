@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-04T05:45:39.291Z,31.701,-104.606,3.4763,2.4,ml,30,117,0.1,0.3,tx,tx2025rkaccj,2025-09-04T05:49:57.184Z,"56 km SSW of Whites City, New Mexico",earthquake,0,1.2517492771149,0.2,21,automatic,tx,tx
 2025-09-04T05:22:15.963Z,32.387,-101.076,3.1765,1.2,ml,15,130,0.1,0.5,tx,tx2025rjzifl,2025-09-04T05:25:19.442Z,"6 km WNW of Westbrook, Texas",earthquake,0,1.6949318647385,0.2,12,automatic,tx,tx
 2025-09-04T05:10:52.338Z,34.4603,70.5979,10,4.7,mb,69,88,1.21,1.17,us,us7000qtq5,2025-09-04T05:30:47.040Z,"13 km ENE of Jalālābād, Afghanistan",earthquake,6.92,1.874,0.067,67,reviewed,us,us
 2025-09-04T05:10:37.030Z,34.0576667,-117.1365,8.73,0.7,ml,44,36,0.02984,0.18,ci,ci41282768,2025-09-04T05:15:02.439Z,"1 km S of Mentone, CA",earthquake,0.17,0.46,0.14,26,automatic,ci,ci
@@ -238,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T06:12:12.281Z,60.7769,-151.9658,202.1,0.9,ml,,,,0.37,ak,ak025baxukng,2025-09-03T06:13:43.656Z,"38 km WNW of Nikiski, Alaska",earthquake,,22.6,,,automatic,ak,ak
 2025-09-03T06:04:37.950Z,37.605834960938,-118.98466491699,11.930000305176,0.35,md,6,166,0.02992,0.01,nc,nc75232537,2025-09-03T06:27:18.418Z,"3 km SSW of Mammoth Lakes, CA",earthquake,2.61,1.72000003,0.16,5,automatic,nc,nc
 2025-09-03T05:54:30.510Z,38.835666656494,-122.79433441162,2.0599999427795,1.4,md,28,55,0.004149,0.03,nc,nc75232532,2025-09-03T07:47:18.976Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.330000013,0.13,28,automatic,nc,nc
-2025-09-03T05:46:09.490Z,46.195166666667,-122.1855,7.07,-0.2,ml,10,105,0.005035,0.14,uw,uw62181046,2025-09-03T22:00:26.260Z,"37 km NNE of Amboy, Washington",earthquake,0.44,0.67,0.057871302087056,5,reviewed,uw,uw
