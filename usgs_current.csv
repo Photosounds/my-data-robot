@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-21T17:32:50.020Z,38.825332641602,-122.80383300781,2.6400001049042,0.88,md,8,106,0.005245,0.01,nc,nc75240302,2025-09-21T17:34:25.537Z,"7 km NNW of The Geysers, CA",earthquake,0.43,0.910000026,0.42,8,automatic,nc,nc
 2025-09-21T17:10:43.200Z,38.839332580566,-122.81266784668,2.0499999523163,0.86,md,13,92,0.01604,0.01,nc,nc75240292,2025-09-21T17:27:20.687Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.600000024,0.23,13,automatic,nc,nc
 2025-09-21T17:00:35.366Z,31.66,-104.557,3.398,1.9,ml,25,114,0,0.5,tx,tx2025sqbuyl,2025-09-21T17:04:25.012Z,"59 km SSW of Whites City, New Mexico",earthquake,0,1.3605654239655,0.1,18,automatic,tx,tx
 2025-09-21T16:58:09.782Z,60.408,-143.6246,15.4,1.4,ml,,,,0.49,ak,ak025c4vr0c2,2025-09-21T16:59:52.074Z,"118 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T18:08:34.200Z,33.9968333,-116.784,11.91,1.75,ml,83,27,0.04302,0.16,ci,ci40447090,2025-09-21T14:07:07.476Z,"9 km N of Cabazon, CA",earthquake,0.11,0.3,0.236,26,reviewed,ci,ci
 2025-09-20T18:01:46.880Z,38.802833557129,-122.77400207519,3.1500000953674,0.8,md,20,74,0.01138,0.02,nc,nc75239912,2025-09-20T18:32:18.696Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.540000021,0.11,19,automatic,nc,nc
 2025-09-20T17:49:15.416Z,49.8916,155.7992,68.778,4.5,mb,75,124,3.433,0.47,us,us7000qxl4,2025-09-20T19:15:56.040Z,"90 km SSW of Severo-Kuril’sk, Russia",earthquake,10.93,7.579,0.058,87,reviewed,us,us
-2025-09-20T17:33:51.613Z,61.5642,-146.4461,33.1,1.5,ml,,,,0.74,ak,ak025c38ntrt,2025-09-20T17:35:32.342Z,"48 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
