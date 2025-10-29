@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-29T03:17:23.980Z,36.065498352051,-121.58066558838,9.710000038147,1.29,md,6,147,0.008814,0.01,nc,nc75256061,2025-10-29T03:18:59.680Z,"5 km NNW of Lopez Point, CA",earthquake,3.2,3.82999992,0.12,6,automatic,nc,nc
-2025-10-29T03:11:22.230Z,33.99123001,-96.39129639,2.603607416,2.68,ml,37,91.1809082,0.4277877808,0.8321423568,ok,ok2025veet,2025-10-29T03:19:36.766Z,"1 km W of Durant, Oklahoma",earthquake,2.794221991,2.249468457,0.27,11,automatic,ok,ok
+2025-10-29T03:46:35.131Z,38.9125,-98.5288,8.89,3.5,mb_lg,34,59,0.51,0.69,us,us6000rk3m,2025-10-29T03:55:14.040Z,"9 km NE of Dorrance, Kansas",earthquake,3.27,7.61,0.043,142,reviewed,us,us
+2025-10-29T03:38:55.090Z,32.6071667,-115.708,4.44,2.03,ml,52,46,0.04481,0.27,ci,ci41321880,2025-10-29T03:42:29.090Z,"12 km WNW of Progreso, B.C., MX",earthquake,0.25,0.59,0.175,26,automatic,ci,ci
+2025-10-29T03:31:15.776Z,31.674,-104.492,8.0999,1.9,ml,27,71,0,0.5,tx,tx2025vguows,2025-10-29T03:34:24.147Z,"56 km S of Whites City, New Mexico",earthquake,0,2.1407437324524,0.3,12,automatic,tx,tx
+2025-10-29T03:29:01.710Z,32.0751648,-115.8805008,29.69,3.46,mlr,38,107,0.1611,0.39,ci,ci41321872,2025-10-29T03:39:44.640Z,"63 km SSW of Progreso, B.C., MX",earthquake,1.31,1,0.345,21,automatic,ci,ci
+2025-10-29T03:28:15.843Z,63.4277,-150.8727,12.3,1.5,ml,,,,1.69,ak,ak025dvi9588,2025-10-29T03:31:15.507Z,"44 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-10-29T03:17:23.980Z,36.065498352051,-121.58066558838,9.710000038147,1.29,md,6,147,0.008814,0.01,nc,nc75256061,2025-10-29T03:32:18.590Z,"5 km NNW of Lopez Point, CA",earthquake,3.2,3.82999992,0.12,6,automatic,nc,nc
+2025-10-29T03:11:22.230Z,33.99123001,-96.39129639,2.603607416,2.68,ml,37,91.1809082,0.4277877808,0.8321423568,ok,ok2025veet,2025-10-29T03:56:06.273Z,"1 km W of Durant, Oklahoma",earthquake,2.794221991,2.249468457,0.27,11,automatic,ok,ok
 2025-10-29T03:08:06.041Z,31.735,-104.122,4.1931,2.4,ml,44,41,0,0.3,tx,tx2025vgtuzx,2025-10-29T03:12:11.396Z,"49 km W of Mentone, Texas",earthquake,0,0.78908318281174,0.2,34,automatic,tx,tx
 2025-10-29T03:05:00.568Z,61.1054,-151.2662,66.3,1.9,ml,,,,0.56,ak,ak025dvi46ko,2025-10-29T03:17:21.363Z,"8 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-29T02:46:54.718Z,-23.1762,-179.7323,574.168,4.6,mb,28,111,6.717,0.94,us,us6000rk3f,2025-10-29T03:13:23.040Z,"south of the Fiji Islands",earthquake,13.88,9.028,0.105,27,reviewed,us,us
@@ -17,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-29T00:50:15.480Z,38.830001831055,-122.85600280762,2.0199999809265,0.64,md,10,114,0.002546,0.02,nc,nc75256011,2025-10-29T01:17:21.662Z,"10 km NW of The Geysers, CA",earthquake,0.3,0.629999995,0.13,11,automatic,nc,nc
 2025-10-29T00:49:47.850Z,38.82833480835,-122.85633087158,2.5599999427795,1.44,md,24,100,0.0008951,0.02,nc,nc75256006,2025-10-29T03:12:19.451Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.409999996,0.11,23,automatic,nc,nc
 2025-10-29T00:49:10.264Z,62.3862,-150.1529,17.2,1.8,ml,,,,0.42,ak,ak025dvglc0i,2025-10-29T00:51:11.262Z,"7 km NNW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-10-29T00:43:18.040Z,35.3525,-117.7901667,5.68,1.37,ml,40,48,0.09632,0.15,ci,ci41321840,2025-10-29T00:46:39.257Z,"14 km W of Johannesburg, CA",earthquake,0.16,0.62,0.446,4,automatic,ci,ci
+2025-10-29T00:43:18.040Z,35.3521667,-117.7898333,5.92,1.23,ml,37,48,0.09615,0.16,ci,ci41321840,2025-10-29T03:28:34.038Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.55,0.111,18,reviewed,ci,ci
 2025-10-29T00:23:37.068Z,32.101,-101.481,3.6541,1.8,ml,35,79,0.1,0.4,tx,tx2025vgojgy,2025-10-29T00:27:27.389Z,"10 km W of Forsan, Texas",earthquake,0,1.0285935401917,0.1,23,automatic,tx,tx
 2025-10-29T00:13:55.310Z,35.6795,-117.4776667,7.78,1.34,ml,39,49,0.04622,0.14,ci,ci41321832,2025-10-29T03:18:29.262Z,"12 km SW of Searles Valley, CA",earthquake,0.14,0.5,0.138,20,reviewed,ci,ci
 2025-10-29T00:13:11.700Z,38.825668334961,-122.80766296387,2.6300001144409,1.71,md,31,47,0.01857,0.03,nc,nc75255986,2025-10-29T01:57:17.918Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.379999995,0.12,29,automatic,nc,nc
@@ -204,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-28T04:19:44.120Z,40.7485,-112.0605,6.37,0.22,md,12,56,0.02852,0.15,uu,uu80005208,2025-10-28T15:05:42.680Z,"5 km NE of Magna, Utah",earthquake,0.51,1.16,0.55074056346104,3,reviewed,uu,uu
 2025-10-28T04:12:21.550Z,19.312,-155.42283333333,28.61,1.56,ml,43,63,0.04106,0.13,hv,hv74817871,2025-10-28T17:16:57.290Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.4,0.57,0.33767772006501,17,reviewed,hv,hv
 2025-10-28T04:11:20.850Z,17.942166666667,-66.754833333333,8.47,2.38,md,11,172,0.08492,0.16,pr,pr71499078,2025-10-28T04:20:47.990Z,"7 km SW of Tallaboa, Puerto Rico",earthquake,0.51,1.5,0.070525259833326,6,reviewed,pr,pr
-2025-10-28T03:35:53.033Z,63.3257,-151.1108,0,1.8,ml,,,,0.98,ak,ak025dturdii,2025-10-28T03:39:44.139Z,"38 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-28T03:31:45.973Z,57.5404,-156.9827,204.6,0.6,ml,,,,0.89,ak,ak025dtuqi79,2025-10-28T03:37:05.213Z,"25 km E of Ugashik, Alaska",earthquake,,4.2,,,automatic,ak,ak
-2025-10-28T03:22:25.302Z,61.4849,-151.9723,0,1.3,ml,,,,0.45,ak,ak025dtuoj5u,2025-10-28T03:24:12.505Z,"61 km NW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
