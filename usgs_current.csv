@@ -195,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T08:13:04.974Z,31.581,-104.03,7.8558,1.8,ml,38,64,0,0.1,tx,tx2025vxrlpp,2025-11-07T08:53:42.292Z,"37 km NW of Toyah, Texas",earthquake,0.38087151546713,0.34144163257279,0.2,30,reviewed,tx,tx
 2025-11-07T08:05:33.725Z,52.1973,160.4903,15.979,5.3,mb,70,125,1.394,0.92,us,us6000rm25,2025-11-07T08:24:28.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.75,4.762,0.035,280,reviewed,us,us
 2025-11-07T08:04:18.995Z,60.0008,-139.2037,5.4,2.6,ml,,,,0.99,ak,ak025eagxaqz,2025-11-07T10:02:28.040Z,"58 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-07T07:50:36.520Z,36.0345,-117.7765,1.64,1.26,ml,27,52,0.013,0.18,ci,ci40482202,2025-11-07T16:47:48.211Z,"16 km E of Coso Junction, CA",earthquake,0.16,0.18,0.174,25,reviewed,ci,ci
