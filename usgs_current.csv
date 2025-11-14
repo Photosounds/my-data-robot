@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-14T22:39:11.500Z,37.59700012207,-122.46983337402,9.789999961853,1.64,md,17,107,0.02776,0.03,nc,nc75263351,2025-11-14T22:40:48.979Z,"2 km SE of Pacifica, CA",earthquake,0.38,0.579999983,0.33,12,automatic,nc,nc
 2025-11-14T22:31:56.070Z,19.339332580566,-155.21549987793,4.6100001335144,2.04,ml,14,204,0.05549,0.109999999,hv,hv74830327,2025-11-14T22:35:30.770Z,"11 km S of Volcano, Hawaii",earthquake,0.58,1.36000001,0.22,4,automatic,hv,hv
 2025-11-14T21:48:42.190Z,33.4125,-116.6406667,6.5,0.91,ml,42,36,0.04678,0.17,ci,ci40485202,2025-11-14T21:52:11.448Z,"14 km N of Warner Springs, CA",earthquake,0.15,0.36,0.174,27,automatic,ci,ci
 2025-11-14T21:28:50.032Z,65.2978,-149.0243,9.9,1.7,ml,,,,0.51,ak,ak025em9kknf,2025-11-14T21:31:00.007Z,"22 km NE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -205,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-13T22:58:34.629Z,32.35,-102.076,7.9834,0.7,ml,12,71,0,0.1,tx,tx2025wjvebe,2025-11-14T15:21:32.243Z,"36 km NW of Stanton, Texas",earthquake,0.74840759841126,1.0463473115266,0.1,6,reviewed,tx,tx
 2025-11-13T22:50:31.941Z,32.158,-102.171,8.7158,1.2,ml,12,79,0,0.1,tx,tx2025wjuwrb,2025-11-14T13:01:36.713Z,"19 km NNW of Midland, Texas",earthquake,0.7771577992831,1.1664560105129,0.1,14,reviewed,tx,tx
 2025-11-13T22:49:51.436Z,51.88,178.0589,112.087,4.4,mb,38,98,0.326,0.69,us,us6000rn60,2025-11-14T01:33:07.053Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,11.24,6.572,0.06,79,reviewed,us,us
-2025-11-13T22:43:37.480Z,40.035331726074,-123.7928314209,18.530000686646,1.83,md,9,99,0.04562,0.1,nc,nc75262916,2025-11-13T23:22:19.567Z,"10 km SSE of Redway, CA",earthquake,0.67,0.99000001,0.2,6,automatic,nc,nc
-2025-11-13T22:41:25.664Z,60.9164,-150.8801,13.3,1.9,ml,,,,0.53,ak,ak025ekmpe6o,2025-11-13T22:44:17.547Z,"10 km W of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-13T22:40:39.216Z,32.169,-102.171,7.8369,1.6,ml,38,64,0,0.1,tx,tx2025wjuomw,2025-11-14T00:05:15.452Z,"20 km NNW of Midland, Texas",earthquake,0.4863002989132,0.84199534750851,0.1,29,reviewed,tx,tx
