@@ -241,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-16T23:45:57.300Z,48.204333333333,-122.37816666667,18.97,1.69,ml,49,33,0.0342,0.16,uw,uw62205087,2025-11-17T18:05:13.090Z,"3 km NNW of Warm Beach, Washington",earthquake,0.19,0.48,0.13304137526054,31,reviewed,uw,uw
 2025-11-16T23:38:12.160Z,18.022666666667,-66.933,7.85,2.78,md,16,133,0.0697,0.22,pr,pr71500293,2025-11-16T23:56:41.470Z,"2 km SSE of Liborio Negron Torres, Puerto Rico",earthquake,0.5,0.41,0.1858979697954,6,reviewed,pr,pr
 2025-11-16T23:31:38.910Z,38.794498443604,-122.77833557129,2.7599999904633,0.78,md,10,98,0.007603,0.04,nc,nc75264401,2025-11-16T23:52:16.256Z,"3 km NW of The Geysers, CA",earthquake,0.38,1.23000002,0.2,13,automatic,nc,nc
-2025-11-16T23:22:49.507Z,32.068,-101.148,8.4229,1.5,ml,21,60,0.2,0.2,tx,tx2025wpjdpl,2025-11-17T12:49:51.758Z,"21 km ESE of Forsan, Texas",earthquake,0.84851063411117,1.3401561018783,0.1,13,reviewed,tx,tx
-2025-11-16T23:18:16.128Z,62.9987,-151.0015,110.4,1.9,ml,,,,0.52,ak,ak025eplrx2k,2025-11-16T23:20:22.227Z,"57 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
