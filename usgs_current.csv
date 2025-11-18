@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-18T11:48:23.070Z,38.823833465576,-122.8544998169,2.6500000953674,0.88,md,12,94,0.004144,0.02,nc,nc75265126,2025-11-18T11:50:00.473Z,"10 km WNW of The Geysers, CA",earthquake,0.36,0.579999983,0.18,13,automatic,nc,nc
 2025-11-18T11:28:24.140Z,38.817333221435,-122.78199768066,1.6100000143051,1.08,md,9,109,0.004196,0.01,nc,nc75265121,2025-11-18T11:32:04.074Z,"5 km NNW of The Geysers, CA",earthquake,0.29,0.75999999,0.14,9,automatic,nc,nc
 2025-11-18T11:26:29.850Z,38.78783416748,-122.77200317383,1.7799999713898,0.82,md,13,89,0.01353,0.02,nc,nc75265116,2025-11-18T11:42:20.665Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.550000012,0.15,13,automatic,nc,nc
 2025-11-18T11:13:34.570Z,19.290166854858,-155.35466003418,30.059999465942,1.86,md,39,124,0.04497,0.159999996,hv,hv74833337,2025-11-18T11:17:42.240Z,"16 km NE of Pāhala, Hawaii",earthquake,0.46,0.469999999,0.11936464858906,14,automatic,hv,hv
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T12:02:24.080Z,44.687166666667,-110.6855,6.72,0.83,ml,15,162,0.02611,0.13,uu,uu80122666,2025-11-17T18:54:54.800Z,"32 km S of Mammoth, Wyoming",earthquake,0.53,0.45,0.62163863151519,3,reviewed,uu,uu
 2025-11-17T11:53:04.860Z,33.2888333,-116.2333333,10.67,0.86,ml,42,41,0.09724,0.21,ci,ci40486098,2025-11-17T14:18:18.549Z,"14 km ENE of Borrego Springs, CA",earthquake,0.22,0.43,0.113,18,reviewed,ci,ci
 2025-11-17T11:52:19.590Z,38.767665863037,-122.71783447266,3.0499999523163,0.97,md,8,135,0.008182,0.17,nc,nc75264706,2025-11-17T13:07:18.571Z,"2 km WSW of Anderson Springs, CA",earthquake,1.88,2.05999994,0.28,4,automatic,nc,nc
-2025-11-17T11:51:44.945Z,61.3442,-146.744,21.3,2.2,ml,,,,0.65,ak,ak025er2d75p,2025-11-17T12:04:21.217Z,"31 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
