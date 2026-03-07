@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-07T22:58:10.113Z,60.141,-151.244,54.6,2.3,ml,51,66,0.4,0.7,ak,aka2026erbwut,2026-03-07T22:59:47.461Z,"13 km SE of Clam Gulch, Alaska",earthquake,3.7,3.9644,0.3,4,automatic,ak,ak
+2026-03-07T22:55:24.050Z,38.792499542236,-122.77866363525,2.5299999713898,1.15,md,8,94,0.007264,0.01,nc,nc75323947,2026-03-07T22:57:01.615Z,"3 km NW of The Geysers, CA",earthquake,0.69,0.930000007,0.19,10,automatic,nc,nc
+2026-03-07T22:52:09.735Z,37.4572,-117.9705,0.426,1.45,ml,11,201,0.342,0.1834,nn,nn00912225,2026-03-07T22:54:30.155Z,"24 km SSE of Dyer, Nevada",earthquake,,6.1557,0.68,5,automatic,nn,nn
 2026-03-07T22:45:45.810Z,38.745334625244,-122.69316864014,-0.74000000953674,1.31,md,8,145,0.0233,0.08,nc,nc75323942,2026-03-07T22:47:21.513Z,"3 km S of Anderson Springs, CA",earthquake,0.35,1.27999997,0.15,8,automatic,nc,nc
 2026-03-07T22:40:59.830Z,39.464168548584,-122.93733215332,11.050000190735,1.77,md,12,79,0.05015,0.11,nc,nc75323937,2026-03-07T22:42:36.360Z,"6 km NNE of Lake Pillsbury, CA",earthquake,0.42,1.05999994,0.18,8,automatic,nc,nc
 2026-03-07T22:40:48.660Z,39.453498840332,-122.92883300781,10.14999961853,1.5,md,6,117,0.06142,0.01,nc,nc75323932,2026-03-07T22:42:26.461Z,"6 km NNE of Lake Pillsbury, CA",earthquake,0.39,0.959999979,0.52,3,automatic,nc,nc
@@ -244,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-06T23:02:47.210Z,33.706166666667,-116.762,15.64,0.55,ml,11,168,0.0425,0.1,ci,ci41199015,2026-03-07T00:25:19.145Z,"5 km SW of Idyllwild, CA",earthquake,0.33,0.4,0.12001714605564,7,reviewed,ci,ci
 2026-03-06T23:02:04.346Z,51.394,-177.038,34.1,2.4,ml,12,255,0.4,0.2,ak,aka2026epghhn,2026-03-07T14:07:11.926Z,"60 km SSW of Adak, Alaska",earthquake,12.8,5.8157,0.2,10,reviewed,ak,ak
 2026-03-06T23:00:12.260Z,61.3125,-152.26033333333,2.93,0.61,ml,10,122,0.0761,0.13,av,av94075468,2026-03-07T08:17:58.380Z,"66 km WNW of Beluga, Alaska",earthquake,0.54,0.91,0.14874318535508,11,reviewed,av,av
-2026-03-06T22:58:41.222Z,60.423,-151.545,68.4,2.3,ml,28,74,0.6,0.6,ak,aka2026epgekb,2026-03-07T13:31:24.558Z,"14 km W of Kalifornsky, Alaska",earthquake,3.1,4.3471,0.2,19,reviewed,ak,ak
-2026-03-06T22:58:19.166Z,32.108,-101.935,7.3975,1.5,ml,33,49,0,0.1,tx,tx2026epgbab,2026-03-06T23:12:10.832Z,"14 km W of Stanton, Texas",earthquake,0.32684696420873,0.54048750399004,0.1,21,reviewed,tx,tx
